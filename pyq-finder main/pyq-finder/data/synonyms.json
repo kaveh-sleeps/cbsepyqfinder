@@ -1,0 +1,278 @@
+{
+ "electric dipole": [
+  "dipole moment",
+  "torque on dipole",
+  "equatorial",
+  "axial"
+ ],
+ "capacitor": [
+  "capacitance",
+  "dielectric",
+  "energy stored",
+  "parallel plate"
+ ],
+ "photoelectric": [
+  "photoelectric effect",
+  "work function",
+  "stopping potential",
+  "threshold frequency",
+  "einstein"
+ ],
+ "interference": [
+  "young",
+  "double slit",
+  "fringe",
+  "coherent",
+  "ydse"
+ ],
+ "diffraction": [
+  "single slit",
+  "dark fringe",
+  "resolving"
+ ],
+ "lens": [
+  "focal length",
+  "lens maker",
+  "power of lens",
+  "convex",
+  "concave"
+ ],
+ "mirror": [
+  "mirror formula",
+  "concave mirror",
+  "convex mirror",
+  "magnification"
+ ],
+ "prism": [
+  "minimum deviation",
+  "refraction",
+  "refractive index"
+ ],
+ "total internal reflection": [
+  "tir",
+  "critical angle",
+  "optical fibre"
+ ],
+ "hydrogen atom": [
+  "bohr",
+  "spectral series",
+  "energy level",
+  "balmer",
+  "rydberg"
+ ],
+ "nucleus": [
+  "nuclear",
+  "binding energy",
+  "mass defect",
+  "density of nucleus"
+ ],
+ "semiconductor": [
+  "p-n junction",
+  "diode",
+  "rectifier",
+  "doping",
+  "depletion region",
+  "barrier"
+ ],
+ "transformer": [
+  "step up",
+  "step down",
+  "turns ratio"
+ ],
+ "resonance": [
+  "lcr",
+  "series lcr",
+  "resonant frequency",
+  "impedance",
+  "reactance",
+  "power factor"
+ ],
+ "galvanometer": [
+  "ammeter",
+  "voltmeter",
+  "shunt"
+ ],
+ "magnetic field": [
+  "lorentz force",
+  "cyclotron",
+  "biot savart",
+  "ampere",
+  "solenoid"
+ ],
+ "induction": [
+  "emf",
+  "faraday",
+  "lenz",
+  "mutual inductance",
+  "self inductance"
+ ],
+ "drift velocity": [
+  "current density",
+  "ohm's law",
+  "resistivity",
+  "relaxation time"
+ ],
+ "cell": [
+  "internal resistance",
+  "emf",
+  "kirchhoff",
+  "potentiometer"
+ ],
+ "em waves": [
+  "electromagnetic wave",
+  "displacement current",
+  "maxwell"
+ ],
+ "dual nature": [
+  "de broglie",
+  "matter waves"
+ ],
+ "conductivity": [
+  "molar conductivity",
+  "kohlrausch",
+  "cell constant",
+  "resistance of solution"
+ ],
+ "nernst": [
+  "electrode potential",
+  "emf of cell",
+  "e cell",
+  "standard potential"
+ ],
+ "battery": [
+  "lead storage",
+  "fuel cell",
+  "mercury cell",
+  "dry cell"
+ ],
+ "rate of reaction": [
+  "order",
+  "rate law",
+  "rate constant",
+  "half life",
+  "pseudo first order",
+  "molecularity",
+  "arrhenius",
+  "activation energy",
+  "kinetics"
+ ],
+ "colligative": [
+  "osmotic pressure",
+  "freezing point",
+  "boiling point",
+  "vapour pressure",
+  "raoult",
+  "van't hoff",
+  "elevation",
+  "depression"
+ ],
+ "henry's law": [
+  "solubility of gas",
+  "partial pressure"
+ ],
+ "coordination": [
+  "complex",
+  "ligand",
+  "crystal field",
+  "isomerism",
+  "iupac name",
+  "chelate",
+  "werner"
+ ],
+ "transition elements": [
+  "d block",
+  "d-block",
+  "kmno4",
+  "potassium permanganate",
+  "lanthanoid",
+  "actinoid",
+  "oxidation state"
+ ],
+ "haloalkane": [
+  "alkyl halide",
+  "sn1",
+  "sn2",
+  "swarts",
+  "finkelstein",
+  "haloarene",
+  "grignard",
+  "chlorobenzene"
+ ],
+ "alcohol": [
+  "phenol",
+  "ether",
+  "lucas",
+  "dehydration",
+  "williamson",
+  "reimer tiemann",
+  "kolbe"
+ ],
+ "aldehyde": [
+  "ketone",
+  "carboxylic acid",
+  "aldol",
+  "cannizzaro",
+  "clemmensen",
+  "iodoform",
+  "tollens",
+  "carbonyl"
+ ],
+ "amine": [
+  "aniline",
+  "hinsberg",
+  "diazonium",
+  "basic strength",
+  "carbylamine",
+  "gabriel"
+ ],
+ "glucose": [
+  "carbohydrate",
+  "starch",
+  "cellulose",
+  "sucrose",
+  "lactose",
+  "maltose",
+  "protein",
+  "vitamin",
+  "biomolecule"
+ ],
+ "radioactivity": [
+  "radioactive decay",
+  "decay constant",
+  "alpha decay",
+  "beta decay"
+ ],
+ "polarisation": [
+  "polarization",
+  "polaroid",
+  "brewster",
+  "malus"
+ ],
+ "logic gate": [
+  "and gate",
+  "or gate",
+  "nand",
+  "nor gate",
+  "truth table"
+ ],
+ "electrolysis": [
+  "electrolytic cell",
+  "products of electrolysis",
+  "faraday's laws"
+ ],
+ "alternating current": [
+  "ac circuit",
+  "rms value",
+  "phasor",
+  "lcr"
+ ],
+ "refraction": [
+  "snell's law",
+  "refractive index"
+ ],
+ "neutralisation": [
+  "neutralization",
+  "ph scale",
+  "indicator"
+ ]
+}

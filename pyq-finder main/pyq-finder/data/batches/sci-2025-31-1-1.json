@@ -1,0 +1,897 @@
+[
+ {
+  "id": "sci-2025-q01",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "electrolysis of water",
+   "decomposition reaction"
+  ],
+  "keywords": [
+   "hydrogen",
+   "oxygen",
+   "mass ratio"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Electrolysis of water is a decomposition reaction. The mass ratio (H : O) of hydrogen and oxygen gases liberated at the electrodes during electrolysis of water is:",
+  "solution": "2H₂O → 2H₂ + O₂\nMass of H₂ : mass of O₂ = (2×2) : 32 = 4 : 32 = 1 : 8.\n(The volume ratio is 2 : 1, which is why option B is a trap.)",
+  "source": "CBSE 2025, 31/1/1, Q1",
+  "options": [
+   "8 : 1",
+   "2 : 1",
+   "1 : 2",
+   "1 : 8"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2025-q02",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "burning of metals in air",
+   "metal oxides"
+  ],
+  "keywords": [
+   "aluminium",
+   "magnesium",
+   "oxide",
+   "valency"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The products formed when Aluminium and Magnesium are burnt in the presence of air respectively are:",
+  "solution": "Al has valency 3 and O has valency 2, so the oxide is Al₂O₃.\nMg has valency 2, so its oxide is MgO.",
+  "source": "CBSE 2025, 31/1/1, Q2",
+  "options": [
+   "Al₃O₄ and MgO₂",
+   "Al₂O₃ and MgO",
+   "Al₃O₄ and MgO",
+   "Al₂O₃ and MgO₂"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2025-q04",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "neutralisation",
+   "reactions of acids and bases"
+  ],
+  "keywords": [
+   "hydrochloric acid",
+   "sodium hydroxide",
+   "magnesium oxide",
+   "carbon dioxide",
+   "salt and water"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Consider the following reactions:\n(i) Dilute hydrochloric acid reacts with sodium hydroxide.\n(ii) Magnesium oxide reacts with dilute hydrochloric acid.\n(iii) Carbon dioxide reacts with sodium hydroxide.\nIt is found that in each case:",
+  "solution": "(i) HCl + NaOH → NaCl + H₂O\n(ii) MgO + 2HCl → MgCl₂ + H₂O (basic oxide + acid)\n(iii) CO₂ + 2NaOH → Na₂CO₃ + H₂O (acidic oxide + base)\nIn every case salt and water are formed. No hydrogen gas is released, and the salts need not be neutral.",
+  "source": "CBSE 2025, 31/1/1, Q4",
+  "options": [
+   "Salt and water is formed.",
+   "Neutral salts are formed.",
+   "Hydrogen gas is formed.",
+   "Acidic salts are formed."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2025-q05",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "properties of ionic compounds",
+   "electrostatic forces"
+  ],
+  "keywords": [
+   "ionic compound",
+   "melting point",
+   "solubility",
+   "conduction"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Reaction between two elements A and B forms a compound C. A loses electrons and B gains electrons. Which one of the following properties will NOT be shown by compound C?",
+  "solution": "C is ionic. Ionic compounds have strong electrostatic forces between oppositely charged ions, so they have high melting points, are generally soluble in water and conduct electricity when molten or in solution.\nHence 'weak electrostatic forces of attraction' is the property NOT shown.",
+  "source": "CBSE 2025, 31/1/1, Q5",
+  "options": [
+   "It has high melting point.",
+   "It is highly soluble in water.",
+   "It has weak electrostatic forces of attraction between its oppositely charged ions.",
+   "It conducts electricity in its molten state or aqueous solution."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2025-q06",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "extraction of metals",
+   "electrolytic reduction",
+   "reactivity series"
+  ],
+  "keywords": [
+   "molten chloride",
+   "calcium",
+   "magnesium",
+   "sodium"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "The metals obtained from their molten chlorides by the process of electrolytic reduction are:",
+  "solution": "Metals high in the reactivity series (K, Na, Ca, Mg, Al) cannot be reduced by carbon, so they are extracted by electrolysis of their molten salts, e.g. Na and Ca/Mg from molten chlorides.\nGold and silver occur in free state; iron is obtained by reduction with carbon.",
+  "source": "CBSE 2025, 31/1/1, Q6",
+  "options": [
+   "Gold and silver",
+   "Calcium and magnesium",
+   "Aluminium and silver",
+   "Sodium and iron"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2025-q08",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "digestion in mouth",
+   "salivary amylase"
+  ],
+  "keywords": [
+   "saliva",
+   "starch",
+   "simple sugars"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Secretion of less saliva in mouth will affect the conversion of:",
+  "solution": "Saliva contains salivary amylase, which breaks down starch into simple sugars (maltose). Less saliva means less starch digestion.",
+  "source": "CBSE 2025, 31/1/1, Q8",
+  "options": [
+   "proteins into amino acids",
+   "fats into fatty acids and glycerol",
+   "starch into simple sugars",
+   "sugars into alcohol"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2025-q09",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "plant hormones",
+   "phototropism"
+  ],
+  "keywords": [
+   "auxin",
+   "shoot",
+   "light",
+   "cell elongation"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The plant hormone whose concentration stimulates the cells to grow longer on the side of the shoot which is away from light is:",
+  "solution": "Auxin synthesised at the shoot tip diffuses to the shaded side and promotes cell elongation there, so the shoot bends towards light (phototropism).",
+  "source": "CBSE 2025, 31/1/1, Q9",
+  "options": [
+   "Cytokinins",
+   "Gibberellins",
+   "Adrenaline",
+   "Auxins"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2025-q10",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "bisexual flowers",
+   "pollination"
+  ],
+  "keywords": [
+   "stamen",
+   "pistil",
+   "self-pollination",
+   "cross-pollination"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The correct/true statement(s) for a bisexual flower is/are:\n(i) They possess both stamen and pistil.\n(ii) They possess either stamen or pistil.\n(iii) They exhibit either self-pollination or cross-pollination.\n(iv) They cannot produce fruits on their own.",
+  "solution": "A bisexual flower has both stamens (male) and pistil (female), so (i) is true. It can undergo self- or cross-pollination, so (iii) is true. (ii) describes unisexual flowers; (iv) is false.",
+  "source": "CBSE 2025, 31/1/1, Q10",
+  "options": [
+   "(i) only",
+   "(iv) only",
+   "(i) and (iii)",
+   "(i) and (iv)"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2025-q11",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Heredity",
+  "topics": [
+   "dihybrid cross",
+   "Mendel's laws"
+  ],
+  "keywords": [
+   "round",
+   "wrinkled",
+   "yellow",
+   "green",
+   "F1 generation"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "If pea plants with round and green seeds (RRyy) are crossed with pea plants having wrinkled and yellow seeds (rrYY), the seeds developed by the plants of F1 generation will be:",
+  "solution": "Gametes: Ry from RRyy and rY from rrYY.\nF1 = RrYy. R (round) and Y (yellow) are dominant, so all F1 seeds are round and yellow (100%).",
+  "source": "CBSE 2025, 31/1/1, Q11",
+  "options": [
+   "50% round and green",
+   "75% wrinkled and green",
+   "100% round and yellow",
+   "75% wrinkled and yellow"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2025-q12",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "anaerobic respiration",
+   "breakdown of glucose"
+  ],
+  "keywords": [
+   "lactic acid",
+   "cytoplasm",
+   "muscle cells",
+   "energy"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "The breakdown of glucose has taken the following pathway:\nGlucose —(a)→ Lactic acid + Energy\nThe sites 'a' and 'b' respectively are:\n(site 'a' = where the first breakdown happens, site 'b' = where this pathway occurs in the body)",
+  "solution": "Glucose is first broken down to pyruvate in the cytoplasm. When oxygen is short, as in muscle cells during vigorous exercise, pyruvate is converted to lactic acid.\nSo (a) = cytoplasm and (b) = oxygen-deficient muscle cells.",
+  "source": "CBSE 2025, 31/1/1, Q12",
+  "options": [
+   "Mitochondria and Oxygen deficient muscle cells",
+   "Cytoplasm and Oxygen rich muscle cells",
+   "Cytoplasm and Yeast cells",
+   "Cytoplasm and Oxygen deficient muscle cells"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2025-q13",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "uses of mirrors",
+   "concave and convex mirror images"
+  ],
+  "keywords": [
+   "solar furnace",
+   "rear view mirror",
+   "real image",
+   "virtual image"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Mirror 'X' is used to concentrate sunlight in a solar furnace and Mirror 'Y' is fitted on the side of the vehicle to see the traffic behind the driver. Which of the following statements are true for the two mirrors?\n(i) The image formed by mirror 'X' is real, diminished and at its focus.\n(ii) The image formed by mirror 'Y' is virtual, diminished and erect.\n(iii) The image formed by mirror 'X' is virtual, diminished and erect.\n(iv) The image formed by mirror 'Y' is real, diminished and at its focus.",
+  "solution": "X is a concave mirror: parallel sunlight converges to a real, highly diminished image at the focus, so (i) is true.\nY is a convex mirror: it always gives a virtual, erect, diminished image, so (ii) is true.",
+  "source": "CBSE 2025, 31/1/1, Q13",
+  "options": [
+   "(i) and (ii)",
+   "(ii) and (iii)",
+   "(iii) and (iv)",
+   "(i) and (iv)"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2025-q14",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "defects of vision",
+   "presbyopia"
+  ],
+  "keywords": [
+   "old age",
+   "ciliary muscles",
+   "bifocal lens"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "An old person is suffering from an eye defect caused by weakening of ciliary muscles and diminishing flexibility of the eye lens. If the defect of vision is 'a' which can be corrected by lens 'b', then 'a' and 'b' respectively are:",
+  "solution": "Loss of accommodation with age is presbyopia. It is corrected with bifocal lenses (concave upper part for distant vision, convex lower part for near vision).",
+  "source": "CBSE 2025, 31/1/1, Q14",
+  "options": [
+   "hypermetropia and convex lens",
+   "presbyopia and bifocal lens",
+   "myopia and concave lens",
+   "myopia and bifocal lens"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2025-q15",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "food chain",
+   "trophic levels"
+  ],
+  "keywords": [
+   "producer",
+   "consumer",
+   "grass",
+   "predator"
+  ],
+  "type": "MCQ",
+  "nature": "Application",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Which of the following groups do NOT constitute a food chain?\n(i) Wolf, rabbit, grass, lion\n(ii) Plankton, man, grasshopper, fish\n(iii) Hawk, grass, snake, grasshopper, frog\n(iv) Grass, snake, wolf, tiger",
+  "solution": "A food chain must start with a producer and each organism must feed on the previous one.\n(i) grass → rabbit → wolf → lion ✔\n(iii) grass → grasshopper → frog → snake → hawk ✔\n(ii) plankton, man, grasshopper, fish ✘ (grasshopper is not eaten by fish/man in a plankton chain)\n(iv) grass, snake, wolf, tiger ✘ (snakes do not eat grass; wolf does not eat snakes)\nSo (ii) and (iv) do not constitute food chains.",
+  "source": "CBSE 2025, 31/1/1, Q15",
+  "options": [
+   "(i) and (iv)",
+   "(i) and (iii)",
+   "(ii) and (iii)",
+   "(ii) and (iv)"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2025-q16",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "energy flow in ecosystem",
+   "10 percent law"
+  ],
+  "keywords": [
+   "solar energy",
+   "food energy",
+   "producers"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The percentage of solar energy which is not converted into food energy by the leaves of green plants in a terrestrial ecosystem is about:",
+  "solution": "Green plants capture only about 1% of incident solar energy as food energy, so about 99% is not converted.",
+  "source": "CBSE 2025, 31/1/1, Q16",
+  "options": [
+   "1%",
+   "10%",
+   "90%",
+   "99%"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2025-q17",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "decomposition reactions",
+   "endothermic and exothermic reactions"
+  ],
+  "keywords": [
+   "compost",
+   "energy"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Assertion (A): Decomposition reactions are generally endothermic reactions.\nReason (R): Decomposition of organic matter into compost is an exothermic process.",
+  "solution": "Most decomposition reactions need energy (heat, light or electricity), so A is true. Composting of organic matter releases heat, so R is true. But R does not explain why decomposition reactions in general are endothermic.",
+  "source": "CBSE 2025, 31/1/1, Q17",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2025-q18",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Heredity",
+  "topics": [
+   "variations",
+   "inheritance"
+  ],
+  "keywords": [
+   "basic features",
+   "offspring",
+   "parents"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Assertion (A): A human child bears all the basic features of human beings.\nReason (R): It looks exactly like its parents, showing very little variations.",
+  "solution": "A is true: reproduction copies the basic body design. R is false: a child shows variations and does not look exactly like its parents.",
+  "source": "CBSE 2025, 31/1/1, Q18",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2025-q19",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "topics": [
+   "magnetic field lines"
+  ],
+  "keywords": [
+   "compass needle",
+   "field lines do not cross"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Assertion (A): No two magnetic field lines are found to cross each other.\nReason (R): The compass needle cannot point towards two directions at the point of intersection of two magnetic field lines.",
+  "solution": "Both true. At an intersection a compass needle would have to point in two directions at once, which is impossible, so field lines never cross. R correctly explains A.",
+  "source": "CBSE 2025, 31/1/1, Q19",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2025-q20",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "ozone layer depletion"
+  ],
+  "keywords": [
+   "ozone",
+   "CFCs",
+   "oxygen atoms"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Assertion (A): The amount of ozone in the atmosphere began to drop sharply in the 1980s.\nReason (R): The oxygen atoms combine with molecular oxygen to form ozone.",
+  "solution": "A is true (ozone depletion by CFCs was noticed in the 1980s). R is also a true statement (O + O₂ → O₃) but it describes ozone formation, not why ozone dropped. So R is not the explanation.",
+  "source": "CBSE 2025, 31/1/1, Q20",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2025-q23",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "blood clotting",
+   "transport in plants"
+  ],
+  "keywords": [
+   "platelets",
+   "fibrin",
+   "phloem",
+   "translocation"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Theory",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) Besides minimising the loss of blood, why is it essential to plug any leak in a blood vessel? Name the component of blood which helps in this process and state how this component performs this function.\nOR\n(b) (i) The transport system in plants is relatively slower than in animals. Give reasons.\n(ii) State the role of phloem in the transport of materials in plants.",
+  "solution": "(a) Plugging prevents loss of pressure in the circulatory system, which would make pumping inefficient. Platelets do this: they clump at the injury and help form a clot (with fibrin threads).\n(b)(i) Plants have low energy needs and are largely non-moving; most tissues are dead, so transport relies on slow physical processes (like transpiration pull, diffusion) rather than a pump.\n(ii) Phloem carries the food prepared in leaves (sucrose etc.) to all other parts, including storage organs, using ATP energy (translocation).",
+  "source": "CBSE 2025, 31/1/1, Q23"
+ },
+ {
+  "id": "sci-2025-q24",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "lens formula",
+   "concave lens"
+  ],
+  "keywords": [
+   "image position",
+   "focal length",
+   "object distance"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "An object is placed at a distance of 60 cm from a concave lens of focal length 30 cm. Use the lens formula to find the position of the image formed in this case.",
+  "solution": "u = −60 cm, f = −30 cm\n1/v − 1/u = 1/f\n1/v = 1/f + 1/u = −1/30 − 1/60 = −3/60\nv = −20 cm\nThe image forms 20 cm from the lens on the same side as the object (virtual, erect, diminished).",
+  "source": "CBSE 2025, 31/1/1, Q24"
+ },
+ {
+  "id": "sci-2025-q25",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "resistors in parallel",
+   "electric power"
+  ],
+  "keywords": [
+   "wire cut into parts",
+   "resistance",
+   "watt"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) A wire of resistance R is cut into three equal parts. If these three parts are then joined in parallel, calculate the total resistance of the combination so formed.\nOR\n(b) Define electric power. When do we say that the power consumed in an electric circuit is 1 watt?",
+  "solution": "(a) Each part has resistance R/3.\n1/R' = 3/(R/3) × ... = 3 + 3 + 3 over R = 9/R\nR' = R/9.\n(b) Electric power is the rate at which electrical energy is consumed (P = VI). Power is 1 W when 1 A of current flows through a potential difference of 1 V (1 joule of energy per second).",
+  "source": "CBSE 2025, 31/1/1, Q25"
+ },
+ {
+  "id": "sci-2025-q26",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "pesticides",
+   "biological magnification",
+   "environment"
+  ],
+  "keywords": [
+   "chemicals",
+   "agriculture",
+   "food chain"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Reasoning",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "\"Excessive use of chemicals and pesticides in agriculture adversely affects the environment.\" Justify this statement.",
+  "solution": "Pesticides and chemical fertilisers are non-biodegradable and wash into soil and water bodies. They enter food chains through crops and get concentrated at higher trophic levels (biological magnification), harming humans and other organisms. They also pollute soil and groundwater and harm useful organisms like earthworms and pollinators.",
+  "source": "CBSE 2025, 31/1/1, Q26"
+ },
+ {
+  "id": "sci-2025-q27",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "displacement reactions",
+   "extraction of metals",
+   "reactivity series"
+  ],
+  "keywords": [
+   "thermite",
+   "carbon reduction",
+   "oxide"
+  ],
+  "type": "Short Answer",
+  "nature": "Reasoning",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) \"Displacement reactions also play a key role in extracting metals in the middle of the reactivity series.\" Justify this statement with two examples.\n(b) Why can metals high up in the reactivity series not be obtained by reduction of their oxides by carbon?",
+  "solution": "(a) Metals of medium reactivity can be displaced from their oxides by a more reactive metal such as aluminium:\n3MnO₂ + 4Al → 3Mn + 2Al₂O₃ + heat\nFe₂O₃ + 2Al → 2Fe + Al₂O₃ + heat (thermite reaction, used to weld rail tracks)\n(b) Metals high in the series (K, Na, Ca, Mg, Al) have a greater affinity for oxygen than carbon has. Carbon therefore cannot remove oxygen from their oxides; they are extracted by electrolysis of their molten salts.",
+  "source": "CBSE 2025, 31/1/1, Q27"
+ },
+ {
+  "id": "sci-2025-q28",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "rusting",
+   "reaction of metals with water",
+   "corrosion"
+  ],
+  "keywords": [
+   "iron",
+   "sodium",
+   "potassium",
+   "hydrogen gas",
+   "pop sound"
+  ],
+  "type": "Short Answer",
+  "nature": "Theory",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) With the help of an activity, explain the conditions under which iron articles get rusted.\nOR\n(b) (i) Name two metals which react violently with cold water. List any three observations which a student notes when these metals are dropped in a beaker containing water.\n(ii) Write a test to identify the gas evolved (if any) during the reaction of these metals with water.",
+  "solution": "(a) Take three test tubes with iron nails: (1) nail in water + air, (2) nail in boiled (air-free) water covered with oil, (3) nail in dry air with anhydrous CaCl₂. Only in tube 1 does the nail rust, so iron rusts in the presence of both air (oxygen) and moisture.\n(b)(i) Sodium and potassium. Observations: the metal floats and moves rapidly on the surface; it melts into a silvery ball; hissing/fizzing with gas bubbles; (potassium also catches fire with a lilac flame).\n(ii) Bring a burning matchstick/splinter near the gas: it burns with a 'pop' sound, showing hydrogen.",
+  "source": "CBSE 2025, 31/1/1, Q28"
+ },
+ {
+  "id": "sci-2025-q29",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "plant movements",
+   "nastic movement",
+   "tropic movement"
+  ],
+  "keywords": [
+   "touch-me-not",
+   "tendril",
+   "turgor",
+   "chhui-mui"
+  ],
+  "type": "Short Answer",
+  "nature": "Reasoning",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Plants have neither a nervous system nor muscles, even then they respond to stimuli. For example, the leaves of chhui-mui (touch-me-not) plant when touched begin to fold up and droop.\n(a) How is the information communicated in 'touch-me-not' plants?\n(b) What enables the plant cells to bring out the observable response?\n(c) Differentiate the movement mentioned above from the movement of tendrils in a pea plant.",
+  "solution": "(a) By electrical-chemical signals (information is passed from cell to cell).\n(b) Plant cells change shape by changing the amount of water in them: some cells lose water and shrink (loss of turgor), so the leaf droops.\n(c) Touch-me-not: a nastic (non-directional) movement, not growth-dependent and quick. Tendril movement: a tropic (directional) movement towards the support (thigmotropism), caused by faster growth of cells on the side away from contact and is slow.",
+  "source": "CBSE 2025, 31/1/1, Q29"
+ },
+ {
+  "id": "sci-2025-q30",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "chromosomes",
+   "DNA copying",
+   "gamete formation"
+  ],
+  "keywords": [
+   "haploid",
+   "diploid",
+   "fertilisation",
+   "meiosis"
+  ],
+  "type": "Short Answer",
+  "nature": "Theory",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) What are chromosomes?\n(b) Explain in brief how stability of DNA content of a species is ensured in sexually reproducing organisms.",
+  "solution": "(a) Chromosomes are thread-like structures in the nucleus made of DNA and proteins; they carry genes and become visible during cell division.\n(b) Gametes are formed by meiosis, which halves the chromosome number (haploid). At fertilisation the male and female gametes fuse and restore the full (diploid) number in the zygote, so the DNA content stays constant across generations.",
+  "source": "CBSE 2025, 31/1/1, Q30"
+ },
+ {
+  "id": "sci-2025-q33",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "resistivity",
+   "resistance of a conductor",
+   "alloys"
+  ],
+  "keywords": [
+   "SI unit of resistivity",
+   "heating devices",
+   "ohm metre"
+  ],
+  "type": "Short Answer",
+  "nature": "Derivation",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) Write the relationship between resistivity and resistance of a cylindrical conductor of length l and area of cross-section A. Hence derive the SI unit of resistivity.\n(b) Why are alloys used in electrical heating devices?",
+  "solution": "(a) R = ρl/A, so ρ = RA/l.\nUnit of ρ = Ω × m² / m = Ω m (ohm-metre).\n(b) Alloys have higher resistivity than pure metals and do not oxidise (burn) readily at high temperature, so they last longer and produce more heat.",
+  "source": "CBSE 2025, 31/1/1, Q33"
+ },
+ {
+  "id": "sci-2025-q34",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "topics": [
+   "ethanol reactions",
+   "sodium ethoxide",
+   "dehydration of ethanol",
+   "oxidation of ethanol"
+  ],
+  "keywords": [
+   "conc. H2SO4",
+   "443 K",
+   "acidified potassium dichromate",
+   "hydrogen"
+  ],
+  "type": "Long Answer",
+  "nature": "Theory",
+  "marks": 5,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "(Attempt of the OR option)\n(i) A carbon compound X is a good solvent. On reaction with sodium, X forms two products Y and Z. Z is used to convert vegetable oil into vegetable ghee. Identify and name X, Y and Z. Also write the equation of reaction of X with sodium to justify your answer.\n(ii) Write chemical equation to show what happens when ethanol:\n(I) burns in oxygen/air.\n(II) is heated at 443 K in excess conc. H₂SO₄.\n(III) reacts with acidified potassium dichromate.",
+  "solution": "(i) X = ethanol (C₂H₅OH); Y = sodium ethoxide (C₂H₅ONa); Z = hydrogen gas (used in hydrogenation of oils).\n2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑\n(ii)(I) C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O + heat\n(II) C₂H₅OH —(conc. H₂SO₄, 443 K)→ CH₂=CH₂ + H₂O\n(III) C₂H₅OH —(acidified K₂Cr₂O₇)→ CH₃COOH (ethanoic acid)",
+  "source": "CBSE 2025, 31/1/1, Q34"
+ },
+ {
+  "id": "sci-2025-q36",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "power of a lens",
+   "magnification",
+   "refraction through glass slab",
+   "Snell's law"
+  ],
+  "keywords": [
+   "myopia",
+   "concave lens",
+   "focal length",
+   "convergence"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "(a) (i) The power of a lens 'X' is −2.5 D. Name the lens and determine its focal length in cm. For which eye defect of vision will an optician prescribe this type of lens as a corrective lens?\n(ii) \"The value of magnification 'm' for a lens is −2.\" Using the new Cartesian Sign Convention and considering that an object is placed at a distance of 20 cm from the optical centre of this lens, state: (I) the nature of the image formed; (II) size of the image compared to the size of the object; (III) position of the image; and (IV) sign of the height of the image.\n(iii) The numerical values of the focal lengths of two lenses A and B are 10 cm and 20 cm respectively. Which one of the two will show higher degree of convergence/divergence? Give reason.\nOR\n(b) (i) Draw a ray diagram to show the refraction of a ray of light through a rectangular glass slab when it falls obliquely from air into glass.\n(ii) State Snell's law of refraction of light.\n(iii) Differentiate between the virtual images formed by a convex lens and a concave lens on the basis of: (I) object distance, and (II) magnification.",
+  "solution": "(a)(i) Negative power means a concave (diverging) lens. f = 1/P = 1/(−2.5) = −0.4 m = −40 cm. Prescribed for myopia (short-sightedness).\n(ii) m = −2 means a convex lens. (I) Real and inverted. (II) Twice (2×) the size of the object. (III) m = v/u so v = (−2)(−20) = +40 cm: 40 cm on the other side of the lens. (IV) Negative (image is inverted).\n(iii) Lens A (f = 10 cm) has power 10 D vs 5 D for lens B, so A shows the higher degree of convergence/divergence (shorter focal length = more bending).\n(b)(i) Draw: a ray bends towards the normal on entering the glass, bends away from the normal on leaving, and the emergent ray is parallel to the incident ray but laterally displaced.\n(ii) The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant for a given pair of media (sin i / sin r = constant).\n(iii) Convex lens: virtual image only when the object is between O and F (closer than f); image is magnified (m > 1). Concave lens: virtual image for any object position; image is diminished (m < 1).",
+  "source": "CBSE 2025, 31/1/1, Q36"
+ },
+ {
+  "id": "sci-2025-q37",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "electrolysis of brine",
+   "chlor-alkali process",
+   "baking soda",
+   "water of crystallisation"
+  ],
+  "keywords": [
+   "common salt",
+   "sodium hydroxide",
+   "washing soda",
+   "rock salt"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Seawater contains many salts dissolved in it. Common salt is separated from these salts. Deposits of solid salt are also found in several parts of the world. These large crystals are often brown due to impurities. This is called rock salt and is mined like coal. The common salt is an important raw material for chemicals of daily use.\n(a) Write balanced chemical equations to show the products formed during electrolysis of brine. (1)\n(b) List two uses of any one product obtained during electrolysis of brine. (1)\n(c) (i) A mild non-corrosive basic salt 'A', used for faster cooking, is strongly heated to produce a compound 'B' that is used for removing permanent hardness of water. Identify A and B and also write the equation for the reaction that occurs when A is heated. (2)\nOR\n(c) (ii) Define water of crystallisation. Give two examples of salts that have water of crystallisation. (2)",
+  "solution": "(a) 2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂\n(b) Chlorine: disinfecting drinking water / swimming pools; making bleaching powder. (Also NaOH: soap and paper making; H₂: fuel / making margarine.)\n(c)(i) A = sodium hydrogen carbonate (baking soda), B = sodium carbonate (Na₂CO₃).\n2NaHCO₃ —(heat)→ Na₂CO₃ + H₂O + CO₂\n(c)(ii) Water of crystallisation is the fixed number of water molecules chemically bound to one formula unit of a salt. Examples: CuSO₄·5H₂O, Na₂CO₃·10H₂O (also CaSO₄·2H₂O, gypsum).",
+  "source": "CBSE 2025, 31/1/1, Q37"
+ },
+ {
+  "id": "sci-2025-q38",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "photosynthesis",
+   "stomata",
+   "desert plants"
+  ],
+  "keywords": [
+   "autotrophs",
+   "producers",
+   "chlorophyll",
+   "carbon dioxide"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "The maintenance functions of all living organisms must go on even when they are not doing anything particular. These maintenance processes require energy to prevent damage and break-down of cells and tissues, which is obtained by the individual organism from the food prepared by the autotrophs, called producers.\n(a) Name and define the process by which green plants prepare food. (1)\n(b) Write the chemical equation involved in the above process. (1)\n(c) (i) State in proper sequence the events that occur in synthesis of food by desert plants. (2)\nOR\n(c) (ii) Explain giving reasons what happens to the rate at which the green plants will prepare food (I) during cloudy weather, and (II) when stomata get blocked due to dust. (2)",
+  "solution": "(a) Photosynthesis: the process by which green plants use sunlight, chlorophyll, CO₂ and water to make carbohydrates (food) and release oxygen.\n(b) 6CO₂ + 12H₂O —(sunlight, chlorophyll)→ C₆H₁₂O₆ + 6O₂ + 6H₂O\n(c)(i) Desert plants open stomata at night and take in CO₂, which is fixed into an intermediate; during the day, stomata stay closed (to save water) and chlorophyll captures sunlight to convert the stored intermediate into sugar.\n(c)(ii)(I) The rate decreases because less light energy is available.\n(II) The rate decreases because CO₂ cannot enter through blocked stomata (and gas exchange is reduced).",
+  "source": "CBSE 2025, 31/1/1, Q38"
+ },
+ {
+  "id": "sci-2025-q39",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "domestic electric circuits",
+   "earth wire",
+   "fuse and safety"
+  ],
+  "keywords": [
+   "live wire",
+   "neutral wire",
+   "power rating",
+   "220 V"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "In our homes, we receive the supply of electric power through a main supply also called mains, either supported through overhead electric poles or by underground cables. In our country the potential difference between the two wires (live wire and neutral wire) of this supply is 220 V.\n(a) Write the colours of the insulation covers of the line wires through which supply comes to our homes. (1)\n(b) What should be the current rating of the electric circuit (220 V) so that an electric iron of 1 kW power rating can be operated? (1)\n(c) (i) What is the function of the earth wire? State the advantage of the earth wire in domestic electric appliances such as electric iron. (2)\nOR\n(c) (ii) List two precautions to be taken to avoid electrical accidents. State how these precautions prevent possible damage to the circuit/appliance. (2)",
+  "solution": "(a) Red (live wire) and black (neutral wire). (Earth wire: green.)\n(b) I = P/V = 1000/220 ≈ 4.5 A, so a circuit rated at least 5 A is needed.\n(c)(i) The earth wire provides a low-resistance path to the ground for any leakage current. The metal body of the iron is connected to it, so if the live wire touches the body the current flows to earth and the user does not get a shock.\n(c)(ii) Use fuses/MCBs of correct rating (they melt/trip when current is too high, preventing overheating and fire); do not overload sockets or use damaged/exposed wires (prevents short circuit and heating).",
+  "source": "CBSE 2025, 31/1/1, Q39"
+ }
+]

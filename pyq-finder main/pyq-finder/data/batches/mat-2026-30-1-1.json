@@ -1,0 +1,956 @@
+[
+ {
+  "id": "mat-2026-q01",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "HCF",
+   "prime factorisation"
+  ],
+  "keywords": [
+   "960",
+   "432"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The HCF of 960 and 432 is:",
+  "solution": "960 = 2⁶ × 3 × 5 and 432 = 2⁴ × 3³.\nHCF = 2⁴ × 3 = 48.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q1",
+  "options": [
+   "48",
+   "54",
+   "72",
+   "36"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q02",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "prime numbers",
+   "composite numbers"
+  ],
+  "keywords": [
+   "natural number 2"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The natural number 2 is:",
+  "solution": "2 has exactly two factors, 1 and 2, so it is a prime number (the only even prime).",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q2",
+  "options": [
+   "a prime number",
+   "a composite number",
+   "prime as well as composite",
+   "neither prime nor composite"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q03",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "unit digit of powers",
+   "Euclid's division lemma applications"
+  ],
+  "keywords": [
+   "6ⁿ",
+   "last digit"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "For any natural number n, 6ⁿ ends with the digit:",
+  "solution": "6¹ = 6, 6² = 36, 6³ = 216 … every power of 6 ends in 6.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q3",
+  "options": [
+   "0",
+   "6",
+   "3",
+   "2"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2026-q05",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Pair of Linear Equations in Two Variables",
+  "topics": [
+   "consistency of linear equations",
+   "coincident lines"
+  ],
+  "keywords": [
+   "infinitely many solutions"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "If a pair of linear equations in two variables is represented by two coincident lines, then the pair of equations has:",
+  "solution": "Coincident lines have every point in common, so the system is consistent with an infinite number of solutions.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q5",
+  "options": [
+   "a unique solution",
+   "two solutions",
+   "no solution",
+   "an infinite number of solutions"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2026-q06",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Arithmetic Progressions",
+  "topics": [
+   "common difference of an AP"
+  ],
+  "keywords": [
+   "√2",
+   "2√2",
+   "3√2"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The common difference of the AP √2, 2√2, 3√2, 4√2, … is:",
+  "solution": "d = 2√2 − √2 = √2.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q6",
+  "options": [
+   "√2",
+   "1",
+   "2√2",
+   "−√2"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q07",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "similar triangles",
+   "ratio of corresponding sides"
+  ],
+  "keywords": [
+   "2AB = DE",
+   "BC = 8 cm"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "If ΔABC and ΔDEF are similar such that 2AB = DE and BC = 8 cm, then EF is equal to:",
+  "solution": "AB/DE = 1/2 is the scale ratio, so BC/EF = 1/2 → EF = 2 × 8 = 16 cm.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q7",
+  "options": [
+   "4 cm",
+   "8 cm",
+   "12 cm",
+   "16 cm"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2026-q08",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "midpoint formula",
+   "points on axes"
+  ],
+  "keywords": [
+   "mid-point lies on x-axis"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The mid-point of the line segment joining the points (5, −4) and (6, 4) lies on:",
+  "solution": "Mid-point = ((5 + 6)/2, (−4 + 4)/2) = (11/2, 0). Its y-coordinate is 0, so it lies on the x-axis.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q8",
+  "options": [
+   "x-axis",
+   "y-axis",
+   "origin",
+   "neither x-axis nor y-axis"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q09",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric ratios",
+   "Pythagoras theorem"
+  ],
+  "keywords": [
+   "sin θ = a/b",
+   "cos θ"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Given that sin θ = a/b, then cos θ is equal to:",
+  "solution": "Take opposite = a, hypotenuse = b, so adjacent = √(b² − a²).\ncos θ = √(b² − a²)/b.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q9",
+  "options": [
+   "b/√(b² − a²)",
+   "b/a",
+   "√(b² − a²)/b",
+   "a/√(b² − a²)"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2026-q10",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric identities",
+   "values of trigonometric ratios"
+  ],
+  "keywords": [
+   "cos A = 1/2",
+   "sin²A + 2cos²A"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "If cos A = 1/2, then the value of sin²A + 2cos²A is:",
+  "solution": "sin²A + 2cos²A = (sin²A + cos²A) + cos²A = 1 + 1/4 = 5/4.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q10",
+  "options": [
+   "3/2",
+   "5/4",
+   "−1",
+   "1/2"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2026-q11",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Some Applications of Trigonometry",
+  "topics": [
+   "angle of elevation",
+   "heights and distances"
+  ],
+  "keywords": [
+   "30 m tower",
+   "10√3 m"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "A car is moving away from the base of a 30 m high tower. The angle of elevation of the top of the tower from the car at an instant when the car is 10√3 m away from the base of the tower is:",
+  "solution": "tan θ = height/distance = 30/(10√3) = √3 → θ = 60°.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q11",
+  "options": [
+   "30°",
+   "45°",
+   "90°",
+   "60°"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2026-q12",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangents from an external point",
+   "angle between tangents"
+  ],
+  "keywords": [
+   "∠POQ = 120°",
+   "∠PTQ"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "If TP and TQ are two tangents to a circle with centre O from an external point T so that ∠POQ = 120°, then ∠PTQ is equal to:",
+  "solution": "Quadrilateral OPTQ has ∠P = ∠Q = 90° (radius ⊥ tangent), so ∠PTQ = 180° − ∠POQ = 180° − 120° = 60°.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q12",
+  "options": [
+   "60°",
+   "70°",
+   "80°",
+   "90°"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q13",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangent perpendicular to radius",
+   "angle in a right triangle"
+  ],
+  "keywords": [
+   "PA is a tangent",
+   "∠POB = 125°"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "In the given figure, PA is a tangent from an external point P to a circle with centre O (AB is a diameter, so A, O, B are collinear, and P, O lie on one line). If ∠POB = 125°, then ∠APO is equal to:",
+  "solution": "Since AOB is a straight line, ∠AOP = 180° − 125° = 55°.\nPA ⊥ OA (tangent ⊥ radius), so in ΔAPO: ∠APO = 90° − 55° = 35°.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q13",
+  "options": [
+   "25°",
+   "65°",
+   "90°",
+   "35°"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2026-q14",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "length of an arc",
+   "sector of a circle"
+  ],
+  "keywords": [
+   "radius 21 cm",
+   "60°"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The length of the arc of the sector of a circle with radius 21 cm and central angle 60° is:",
+  "solution": "Arc length = (60/360) × 2π × 21 = (1/6)(2)(22/7)(21) = 22 cm.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q14",
+  "options": [
+   "22 cm",
+   "44 cm",
+   "88 cm",
+   "11 cm"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q15",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "angle swept by hour hand",
+   "clock problems"
+  ],
+  "keywords": [
+   "7 cm hour hand",
+   "7:00 am to 8:10 am"
+  ],
+  "type": "MCQ",
+  "nature": "Application",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "The hour hand of a clock is 7 cm long. The angle swept by it between 7:00 a.m. and 8:10 a.m. is:",
+  "solution": "The hour hand moves 30° per hour (0.5° per minute).\n70 minutes × 0.5° = 35°.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q15",
+  "options": [
+   "(35/4)°",
+   "(35/2)°",
+   "35°",
+   "70°"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2026-q16",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "total surface area of hemisphere",
+   "curved surface area"
+  ],
+  "keywords": [
+   "diameter 2d",
+   "solid hemisphere"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The total surface area of a solid hemisphere of diameter '2d' is:",
+  "solution": "Radius = d. Total surface area = 3πr² = 3πd².",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q16",
+  "options": [
+   "3πd²",
+   "2πd²",
+   "(1/2)πd²",
+   "(3/4)πd²"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2026-q17",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "empirical relationship mean median mode"
+  ],
+  "keywords": [
+   "mode = 3 median − 2 mean"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "If the mean and mode of a data are 12 and 21 respectively, then its median is:",
+  "solution": "Mode = 3 Median − 2 Mean → 21 = 3 Median − 24 → Median = 15.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q17",
+  "options": [
+   "6",
+   "13.5",
+   "15",
+   "14"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2026-q18",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability of an event",
+   "complementary events"
+  ],
+  "keywords": [
+   "die thrown once",
+   "number other than 3"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "A die is thrown once. The probability of getting a number other than 3 is:",
+  "solution": "P(3) = 1/6, so P(not 3) = 1 − 1/6 = 5/6.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q18",
+  "options": [
+   "1/6",
+   "3/6",
+   "5/6",
+   "1"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2026-q19",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability of 53 Mondays",
+   "leap year"
+  ],
+  "keywords": [
+   "leap year",
+   "non-leap year",
+   "53 Mondays"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "Assertion (A): The probability that a leap year has 53 Mondays is 2/7.\nReason (R): The probability that a non-leap year has 53 Mondays is 5/7.",
+  "solution": "A leap year has 366 days = 52 weeks + 2 extra days. The pair of extra days has 7 equally likely possibilities, of which 2 contain a Monday, so P = 2/7 (A is true).\nA non-leap year has 1 extra day, so P(53 Mondays) = 1/7, not 5/7 (R is false).",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q19",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2026-q20",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "zeroes of a quadratic polynomial",
+   "factorisation"
+  ],
+  "keywords": [
+   "y² + 4y + 3",
+   "at most two zeroes"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Assertion (A): The polynomial p(y) = y² + 4y + 3 has two zeroes.\nReason (R): A quadratic polynomial can have at most two zeroes.",
+  "solution": "y² + 4y + 3 = (y + 1)(y + 3), so it has the two zeroes −1 and −3 (A is true). R is also true, but it only gives an upper bound (at most two), so it does not explain why this particular polynomial has exactly two zeroes.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q20",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2026-q21",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "sum and product of zeroes",
+   "relation between zeroes and coefficients"
+  ],
+  "keywords": [
+   "reciprocals of zeroes",
+   "x² − 3x − 1"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "If α, β are the zeroes of the polynomial p(x) = x² − 3x − 1, then find the value of 1/α + 1/β.",
+  "solution": "α + β = 3 and αβ = −1.\n1/α + 1/β = (α + β)/(αβ) = 3/(−1) = −3.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q21"
+ },
+ {
+  "id": "mat-2026-q22",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "basic proportionality theorem",
+   "similarity of triangles"
+  ],
+  "keywords": [
+   "DE ∥ BC",
+   "AD = x",
+   "corresponding sides"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) In ΔABC, DE ∥ BC. If AD = x, DB = x − 2, AE = x + 2 and EC = x − 1, then find the value of x.\nOR\n(b) ΔABC ~ ΔXYZ, where in ΔABC: AB = 4 cm, BC = 6 cm, CA = y; and in ΔXYZ: XY = x, YZ = 7.2 cm, ZX = 6 cm. Find the values of x and y.",
+  "solution": "(a) By BPT: AD/DB = AE/EC → x/(x − 2) = (x + 2)/(x − 1).\nx(x − 1) = (x + 2)(x − 2) → x² − x = x² − 4 → x = 4.\n(b) Corresponding sides are proportional: AB/XY = BC/YZ = CA/ZX.\nBC/YZ = 6/7.2 = 5/6.\n4/x = 5/6 → x = 4.8 cm. y/6 = 5/6 → y = 5 cm.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q22"
+ },
+ {
+  "id": "mat-2026-q23",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "distance formula",
+   "equation of a circle through a point"
+  ],
+  "keywords": [
+   "centre (x − 7, 2x)",
+   "radius 5√2"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "The coordinates of the centre of a circle are (x − 7, 2x). Find the value(s) of 'x' if the circle passes through the point (−9, 11) and has radius 5√2 units.",
+  "solution": "Distance from centre to (−9, 11) = radius, so (−9 − x + 7)² + (11 − 2x)² = 50.\n(x + 2)² + (11 − 2x)² = 50 → 5x² − 40x + 75 = 0 → x² − 8x + 15 = 0.\nx = 3 or x = 5.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q23"
+ },
+ {
+  "id": "mat-2026-q24",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric ratios from tan",
+   "trigonometric identities"
+  ],
+  "keywords": [
+   "tan θ = 24/7",
+   "cot θ = 7/8"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) If tan θ = 24/7, then find the value of sin θ + cos θ.\nOR\n(b) If cot θ = 7/8, then find the value of (1 + sin θ)(1 − sin θ) / [(1 + cos θ)(1 − cos θ)].",
+  "solution": "(a) tan θ = 24/7 → hypotenuse = √(24² + 7²) = 25. sin θ = 24/25, cos θ = 7/25.\nsin θ + cos θ = 31/25.\n(b) (1 − sin²θ)/(1 − cos²θ) = cos²θ/sin²θ = cot²θ = (7/8)² = 49/64.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q24"
+ },
+ {
+  "id": "mat-2026-q25",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangent to a circle",
+   "concentric circles",
+   "chord length"
+  ],
+  "keywords": [
+   "radii 5 cm and 4 cm",
+   "chord touches smaller circle"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Two concentric circles are of radii 5 cm and 4 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+  "solution": "The chord touches the smaller circle, so the radius to the point of contact (4 cm) is perpendicular to the chord and bisects it.\nHalf-chord = √(5² − 4²) = 3 cm.\nChord = 6 cm.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q25"
+ },
+ {
+  "id": "mat-2026-q26",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "irrational numbers",
+   "proof by contradiction"
+  ],
+  "keywords": [
+   "√3 is irrational"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Prove that √3 is an irrational number.",
+  "solution": "Suppose √3 is rational: √3 = p/q with p, q coprime integers, q ≠ 0.\nThen p² = 3q², so 3 divides p² and hence 3 divides p. Let p = 3m: 9m² = 3q² → q² = 3m², so 3 divides q.\nThen 3 divides both p and q, contradicting that they are coprime. Hence √3 is irrational.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q26"
+ },
+ {
+  "id": "mat-2026-q27",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "section formula",
+   "division of a line segment by an axis"
+  ],
+  "keywords": [
+   "x-axis divides segment",
+   "point of intersection"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Find the ratio in which the x-axis divides the line segment joining the points (−6, 5) and (−4, −1). Also find the point of intersection.",
+  "solution": "Let the x-axis divide the segment in the ratio k : 1. On the x-axis, y = 0.\ny = (k(−1) + 1(5))/(k + 1) = 0 → 5 − k = 0 → k = 5.\nRatio = 5 : 1.\nx = (5(−4) + 1(−6))/6 = −26/6 = −13/3.\nPoint of intersection = (−13/3, 0).",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q27"
+ },
+ {
+  "id": "mat-2026-q28",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric identities",
+   "parametric form of an ellipse",
+   "proving identities"
+  ],
+  "keywords": [
+   "x = h + a cos θ",
+   "tan A/(1 + sec A)"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) If x = h + a cos θ and y = k + b sin θ, then prove that ((x − h)/a)² + ((y − k)/b)² = 1.\nOR\n(b) Prove that tan A/(1 + sec A) − tan A/(1 − sec A) = 2 cosec A.",
+  "solution": "(a) (x − h)/a = cos θ and (y − k)/b = sin θ.\nSquaring and adding: cos²θ + sin²θ = 1.\n(b) LHS = tan A [(1 − sec A) − (1 + sec A)] / (1 − sec²A) = tan A(−2 sec A)/(−tan²A) = 2 sec A / tan A.\n= 2 × (1/cos A) × (cos A/sin A) = 2/sin A = 2 cosec A = RHS.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q28"
+ },
+ {
+  "id": "mat-2026-q29",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "incircle of a right triangle",
+   "tangents from an external point"
+  ],
+  "keywords": [
+   "radius of inscribed circle",
+   "PM = ½(PQ + QR + PR)"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "(a) In the given figure, ΔABC is a right triangle in which ∠B = 90°, AB = 4 cm and BC = 3 cm. Find the radius of the circle inscribed in the triangle ABC.\nOR\n(b) In the given figure, a circle touches the side QR of ΔPQR at S and the extended sides PQ and PR at M and N respectively. Prove that PM = ½(PQ + QR + PR).",
+  "solution": "(a) AC = √(4² + 3²) = 5 cm.\nLet r be the inradius and the circle touch AB, BC, CA. The centre, B and the two contact points on AB and BC form a square, so the tangent length from B is r. The tangent lengths from A and C are then (4 − r) and (3 − r), and these add up to AC: (4 − r) + (3 − r) = 5 → r = 1 cm.\n(b) Tangent lengths from an external point are equal: PM = PN, QM = QS, RS = RN.\nPQ + QR + PR = PQ + (QS + SR) + PR = (PQ + QM) + (RN + PR) = PM + PN = 2PM.\nHence PM = ½(PQ + QR + PR).",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q29"
+ },
+ {
+  "id": "mat-2026-q30",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "volume of combined solids",
+   "cylinder with hemispherical ends"
+  ],
+  "keywords": [
+   "total height 20 cm",
+   "diameter 7 cm"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "A solid is in the form of a cylinder with hemispherical ends. The total height of the solid is 20 cm and the diameter of the cylinder is 7 cm. Find the total volume of the solid. (Use π = 22/7)",
+  "solution": "r = 3.5 cm. Height of cylindrical part = 20 − 2(3.5) = 13 cm.\nVolume of cylinder = πr²h = (22/7)(3.5)²(13) = 500.5 cm³.\nVolume of two hemispheres = (4/3)πr³ = (4/3)(22/7)(3.5)³ = 539/3 ≈ 179.67 cm³.\nTotal = 500.5 + 179.67 = 4081/6 ≈ 680.17 cm³.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q30"
+ },
+ {
+  "id": "mat-2026-q31",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability with two dice",
+   "sample space"
+  ],
+  "keywords": [
+   "same number on both dice",
+   "different numbers"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Two dice of different colours are thrown at the same time. Write down all the possible outcomes. What is the probability that:\n(i) the same number appears on both dice?\n(ii) different numbers appear on both dice?",
+  "solution": "There are 6 × 6 = 36 equally likely outcomes (1,1), (1,2), …, (6,6).\n(i) Same number: (1,1), (2,2), …, (6,6) → 6 outcomes, P = 6/36 = 1/6.\n(ii) Different numbers: 36 − 6 = 30 outcomes, P = 30/36 = 5/6.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q31"
+ },
+ {
+  "id": "mat-2026-q32",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Pair of Linear Equations in Two Variables",
+  "topics": [
+   "graphical solution of linear equations",
+   "area of a triangle"
+  ],
+  "keywords": [
+   "2x − 3y + 6 = 0",
+   "2x + 3y − 18 = 0",
+   "x = 0"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "Determine graphically the coordinates of the vertices of the triangle whose sides are given by the equations 2x − 3y + 6 = 0, 2x + 3y − 18 = 0 and x = 0. Also find the area of this triangle.",
+  "solution": "Plot the lines.\n2x − 3y + 6 = 0: points (0, 2), (3, 4). 2x + 3y − 18 = 0: points (0, 6), (3, 4). x = 0 is the y-axis.\nVertices: (0, 2), (0, 6) and (3, 4) (the first two lines meet at (3, 4)).\nTaking the side on the y-axis as base: base = 6 − 2 = 4 units; height = perpendicular distance of (3, 4) from the y-axis = 3 units.\nArea = ½ × 4 × 3 = 6 sq. units.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q32"
+ },
+ {
+  "id": "mat-2026-q33",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Quadratic Equations",
+  "topics": [
+   "quadratic equation word problem",
+   "speed distance time",
+   "sum of areas of squares"
+  ],
+  "keywords": [
+   "trains",
+   "squares",
+   "factorisation"
+  ],
+  "type": "Long Answer",
+  "nature": "Application",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "(a) A faster train takes one hour less than a slower train for a journey of 200 km. If the speed of the slower train is 10 km/h less than that of the faster train, find the speeds of the two trains.\nOR\n(b) The sum of the areas of two squares is 640 m². If the difference in their perimeters is 64 m, find the sides of the two squares.",
+  "solution": "(a) Let the faster train's speed be x km/h; the slower is x − 10.\n200/(x − 10) − 200/x = 1 → 200 × 10 = x(x − 10) → x² − 10x − 2000 = 0 → (x − 50)(x + 40) = 0 → x = 50.\nSpeeds: 50 km/h and 40 km/h.\n(b) Let the sides be a and b (a > b). a² + b² = 640 and 4a − 4b = 64 → a = b + 16.\n(b + 16)² + b² = 640 → b² + 16b − 192 = 0 → (b − 8)(b + 24) = 0 → b = 8, a = 24.\nSides: 24 m and 8 m.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q33"
+ },
+ {
+  "id": "mat-2026-q34",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "basic proportionality theorem",
+   "similar triangles proof",
+   "medians of similar triangles"
+  ],
+  "keywords": [
+   "Thales theorem",
+   "SAS similarity",
+   "medians CM and RN"
+  ],
+  "type": "Long Answer",
+  "nature": "Proof",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "(a) State and prove the Basic Proportionality Theorem.\nOR\n(b) In the given figure, CM and RN are respectively the medians of ΔABC and ΔPQR (M is the mid-point of AB and N is the mid-point of PQ). If ΔABC ~ ΔPQR, prove that: (i) ΔAMC ~ ΔPNR (ii) ΔCMB ~ ΔRNQ",
+  "solution": "(a) Statement: if a line is drawn parallel to one side of a triangle to intersect the other two sides at distinct points, it divides the two sides in the same ratio.\nGiven DE ∥ BC in ΔABC. Join BE, CD; draw EM ⊥ AB and DN ⊥ AC. ar(ADE)/ar(BDE) = AD/DB and ar(ADE)/ar(CED) = AE/EC. ΔBDE and ΔCED have the same base DE and lie between the same parallels, so their areas are equal. Therefore AD/DB = AE/EC.\n(b) ΔABC ~ ΔPQR gives ∠A = ∠P, ∠B = ∠Q and AB/PQ = AC/PR = BC/QR.\n(i) AM = AB/2 and PN = PQ/2, so AM/PN = AB/PQ = AC/PR, and ∠A = ∠P → ΔAMC ~ ΔPNR (SAS).\n(ii) BM = AB/2 and QN = PQ/2, so BM/QN = AB/PQ = BC/QR, and ∠B = ∠Q → ΔCMB ~ ΔRNQ (SAS).",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q34"
+ },
+ {
+  "id": "mat-2026-q35",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "mean of grouped data",
+   "finding missing frequencies"
+  ],
+  "keywords": [
+   "mean 35",
+   "sum of frequencies 25"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "The mean of the following frequency distribution is 35. Find the values of x and y if the sum of the frequencies is 25.\nClass: 0–10, 10–20, 20–30, 30–40, 40–50, 50–60, 60–70\nFrequency: 1, x, 5, 7, y, 3, 1",
+  "solution": "Σf = 1 + x + 5 + 7 + y + 3 + 1 = 17 + x + y = 25 → x + y = 8.\nClass marks: 5, 15, 25, 35, 45, 55, 65.\nΣfx = 5 + 15x + 125 + 245 + 45y + 165 + 65 = 605 + 15x + 45y.\nMean = 35 → 605 + 15x + 45y = 875 → x + 3y = 18.\nSubtract x + y = 8: 2y = 10 → y = 5, x = 3.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q35"
+ },
+ {
+  "id": "mat-2026-q36",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Arithmetic Progressions",
+  "topics": [
+   "arithmetic progression application",
+   "sum of n terms"
+  ],
+  "keywords": [
+   "potato race",
+   "bucket",
+   "distance"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "In a potato race, a bucket is placed at the starting point, which is 5 m from the first potato. The other potatoes are arranged 3 m apart in a straight line, with a total of 10 potatoes. A competitor starts from the bucket, picks up the nearest potato, runs back to the bucket to drop it in, then returns to pick up the next potato, and so on until all the potatoes are in the bucket.\n(i) What is the distance covered to pick up the first potato and drop it in the bucket? (1)\n(ii) What is the distance covered to pick up the second potato and drop it in the bucket? (1)\n(iii) (a) What is the total distance the competitor has to run? (2)\nOR\n(iii) (b) If the average speed of the competitor is 5 m/s, find the average time taken by the competitor to put all the potatoes in the bucket. (2)",
+  "solution": "Potatoes are at 5, 8, 11, … m from the bucket (AP: a = 5, d = 3, n = 10); each trip is a round trip (twice the distance).\n(i) 2 × 5 = 10 m.\n(ii) 2 × 8 = 16 m.\n(iii)(a) Sum of distances to the potatoes = (10/2)[2(5) + 9(3)] = 5 × 37 = 185 m.\nTotal distance = 2 × 185 = 370 m.\n(iii)(b) Time = distance/speed = 370/5 = 74 s.",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q36"
+ },
+ {
+  "id": "mat-2026-q37",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Some Applications of Trigonometry",
+  "topics": [
+   "heights and distances",
+   "angle of elevation",
+   "right triangle trigonometry"
+  ],
+  "keywords": [
+   "radio tower",
+   "wire",
+   "30° and 60°"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "A radio station tower was built in two sections 'A' and 'B' and is supported by wires from a point 'O' on the ground. The distance between the base P of the tower and the point O is 6 m. From O, the angle of elevation of the top of section B is 30° and the angle of elevation of the top of section A is 60°.\n(i) Find the length of the wire from the point O to the top of section B. (1)\n(ii) Find the length of the wire from the point O to the top of section A. (1)\n(iii) (a) Find the distance AB. (2)\nOR\n(iii) (b) Find the area of ΔOPB. (2)",
+  "solution": "OP = 6 m, and the tower is vertical.\n(i) cos 30° = OP/OB → OB = 6/(√3/2) = 12/√3 = 4√3 m.\n(ii) cos 60° = OP/OA → OA = 6/(1/2) = 12 m.\n(iii)(a) PB = 6 tan 30° = 2√3 m and PA = 6 tan 60° = 6√3 m. AB = PA − PB = 4√3 m.\n(iii)(b) Area of ΔOPB = ½ × OP × PB = ½ × 6 × 2√3 = 6√3 m².",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q37"
+ },
+ {
+  "id": "mat-2026-q38",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "circumference of a circle",
+   "area of a sector"
+  ],
+  "keywords": [
+   "brooch",
+   "5 diameters",
+   "10 equal sectors"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "A brooch is crafted from silver wire in the shape of a circle with a diameter of 35 cm. The wire is also used to create 5 diameters, dividing the circle into 10 equal sectors.\n(i) What is the radius of the circle? (1)\n(ii) What is the circumference of the brooch? (1)\n(iii) (a) What is the total length of silver wire required? (2)\nOR\n(iii) (b) What is the area of each sector of the brooch? (2)",
+  "solution": "Take π = 22/7.\n(i) r = 35/2 = 17.5 cm.\n(ii) Circumference = πd = (22/7)(35) = 110 cm.\n(iii)(a) Wire = circumference + 5 diameters = 110 + 5 × 35 = 285 cm.\n(iii)(b) Area of each sector = (1/10)πr² = (1/10)(22/7)(17.5)² = 96.25 cm².",
+  "source": "CBSE 2026, Maths Standard 30/1/1, Q38"
+ }
+]

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PYQ Finder – CBSE Class 10 &amp; 12</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="doodles" aria-hidden="true"></div>
+  <div class="wrap hero">
+    <h1>PYQ FINDER</h1>
+    <p class="tag">Search CBSE Previous Year Questions<br>by topic, chapter or question type.</p>
+    <p class="aipill"><span class="spark">✦</span> AI-assisted intelligent search · works fully offline</p>
+    <div class="searchbar">
+      <svg class="mag" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><line x1="15.5" y1="15.5" x2="21" y2="21"/></svg>
+      <input id="q" type="search" autocomplete="off" placeholder="Search e.g. &quot;Capacitance&quot;" aria-label="Search questions">
+      <button id="go" type="button" aria-label="Search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><line x1="15.5" y1="15.5" x2="21" y2="21"/></svg></button>
+    </div>
+    <div class="subjects classes" id="classes">
+      <button type="button" data-c="10">Class 10</button>
+      <button type="button" data-c="12">Class 12</button>
+    </div>
+    <div class="subjects" id="subjects"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <details class="aibox" open>
+    <summary><span class="spark">✦</span> AI-Assisted Search <small>how it works</small></summary>
+    <p>The system uses AI-assisted tagging and query understanding to connect student searches with relevant questions. It can recognize synonyms, correct common spelling mistakes, identify years and question types, and rank relevant results.</p>
+    <p class="fine">The topic tags and the synonym map were prepared with AI assistance. The search itself runs offline in your browser — no live AI model, no internet, no API.</p>
+  </details>
+  <div class="tryrow"><span>Try:</span><span class="examples" id="examples"></span></div>
+  <section class="browse" aria-label="Browse and filter">
+    <div class="row">
+      <label>Subject <select id="f-subject"></select></label>
+      <label>Chapter <select id="f-chapter"></select></label>
+      <button id="clear" type="button" class="ghost">Reset all</button>
+    </div>
+    <div class="row chips" id="facets"></div>
+    <p class="note">* 2026: the papers do not print a year; it is inferred from the source files' creation dates.</p>
+  </section>
+
+  <div id="detected" class="detected" hidden></div>
+  <div id="status" class="status" role="status" aria-live="polite"></div>
+  <section id="results" class="results"></section>
+</main>
+
+<div id="modal" class="modal" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="m-title">
+    <div class="m-head">
+      <div id="m-meta" class="meta"></div>
+      <button id="m-close" class="x" aria-label="Close">✕</button>
+    </div>
+    <h2 id="m-title" class="sr">Question</h2>
+    <div id="m-q" class="qtext"></div>
+    <div id="m-opts" class="opts"></div>
+    <div id="m-feedback" class="feedback" hidden></div>
+    <div class="m-actions">
+      <button id="m-show" type="button">Show solution</button>
+      <span class="spacer"></span>
+      <button id="m-prev" type="button" class="ghost">← Previous</button>
+      <span id="m-pos" class="pos"></span>
+      <button id="m-next" type="button" class="ghost">Next →</button>
+    </div>
+    <div id="m-sol" class="solution" hidden></div>
+    <p id="m-src" class="src"></p>
+  </div>
+</div>
+
+<footer class="wrap foot credit">Made by <b>@kaveh____s</b></footer>
+
+<script src="data/data.js"></script>
+<script src="js/search.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

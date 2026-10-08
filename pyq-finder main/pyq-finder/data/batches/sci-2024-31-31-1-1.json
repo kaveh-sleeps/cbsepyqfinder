@@ -1,0 +1,988 @@
+[
+ {
+  "id": "sci-2024-q01",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "reaction of zinc with sodium hydroxide",
+   "balancing chemical equations"
+  ],
+  "keywords": [
+   "sodium zincate",
+   "hydrogen gas"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "When 2 mL of sodium hydroxide solution is added to a few pieces of granulated zinc in a test tube and then warmed, the reaction that occurs can be written as a balanced chemical equation as:",
+  "solution": "Zinc is amphoteric and reacts with NaOH to give sodium zincate and hydrogen gas.\n2NaOH + Zn → Na₂ZnO₂ + H₂ (balanced: 2 Na, 1 Zn, 2 O, 2 H on both sides).",
+  "source": "CBSE 2024, 31/31/1/1, Q1",
+  "options": [
+   "NaOH + Zn → NaZnO₂ + H₂O",
+   "2NaOH + Zn → Na₂ZnO₂ + H₂",
+   "2NaOH + Zn → NaZnO₂ + H₂",
+   "2NaOH + Zn → Na₂ZnO₂ + H₂O"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2024-q02",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "photolytic decomposition",
+   "decomposition reaction"
+  ],
+  "keywords": [
+   "silver bromide",
+   "light"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Select from the following a decomposition reaction in which the source of energy for decomposition is light:",
+  "solution": "Silver bromide decomposes in sunlight: 2AgBr → 2Ag + Br₂ (photolytic decomposition, used in black and white photography).\nFeSO₄ and CaCO₃ decompose on heating; water decomposes by electricity.",
+  "source": "CBSE 2024, 31/31/1/1, Q2",
+  "options": [
+   "2FeSO₄ → Fe₂O₃ + SO₂ + SO₃",
+   "2H₂O → 2H₂ + O₂",
+   "2AgBr → 2Ag + Br₂",
+   "CaCO₃ → CaO + CO₂"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q03",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "physical properties of metals and non-metals",
+   "liquid metal and non-metal"
+  ],
+  "keywords": [
+   "mercury",
+   "bromine"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "A metal and a non-metal that exist in liquid state at room temperature are respectively:",
+  "solution": "Mercury is the only liquid metal and bromine is the only liquid non-metal at room temperature.",
+  "source": "CBSE 2024, 31/31/1/1, Q3",
+  "options": [
+   "Bromine and Mercury",
+   "Mercury and Iodine",
+   "Mercury and Bromine",
+   "Iodine and Mercury"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q04",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "topics": [
+   "properties of carbon compounds",
+   "electrical conductivity",
+   "intermolecular forces"
+  ],
+  "keywords": [
+   "covalent compounds",
+   "bad conductors"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Carbon compounds: (i) are good conductors of electricity. (ii) are bad conductors of electricity. (iii) have strong forces of attraction between their molecules. (iv) have weak forces of attraction between their molecules. The correct statements are:",
+  "solution": "Carbon compounds are covalent, so they contain no ions and are bad conductors (ii).\nThe forces between their molecules are weak, so they have low melting and boiling points (iv).",
+  "source": "CBSE 2024, 31/31/1/1, Q4",
+  "options": [
+   "(i) and (ii)",
+   "(ii) and (iii)",
+   "(ii) and (iv)",
+   "(i) and (iii)"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q05",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "water of crystallisation",
+   "hydrated salts"
+  ],
+  "keywords": [
+   "washing soda",
+   "Na₂CO₃·10H₂O"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Consider the following compounds: FeSO₄, CuSO₄, CaSO₄, Na₂CO₃. The compound having the maximum number of water of crystallisation in its crystalline form in one molecule is:",
+  "solution": "FeSO₄·7H₂O has 7, CuSO₄·5H₂O has 5, CaSO₄·2H₂O has 2, and washing soda Na₂CO₃·10H₂O has 10.",
+  "source": "CBSE 2024, 31/31/1/1, Q5",
+  "options": [
+   "FeSO₄",
+   "CuSO₄",
+   "CaSO₄",
+   "Na₂CO₃"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2024-q06",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "amphoteric oxides",
+   "oxides of metals"
+  ],
+  "keywords": [
+   "aluminium oxide",
+   "zinc oxide"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Oxides of aluminium and zinc are:",
+  "solution": "Al₂O₃ and ZnO react with both acids and bases to give salt and water, so they are amphoteric.",
+  "source": "CBSE 2024, 31/31/1/1, Q6",
+  "options": [
+   "acidic",
+   "basic",
+   "amphoteric",
+   "neutral"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q07",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "redox reactions",
+   "oxidation and reduction"
+  ],
+  "keywords": [
+   "MnO₂",
+   "HCl",
+   "chlorine"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂\nThe reaction given above is a redox reaction because in this case:",
+  "solution": "MnO₂ loses oxygen (gets reduced) and HCl loses hydrogen to form Cl₂ (gets oxidised).\nOne substance is reduced and another oxidised, so it is a redox reaction.",
+  "source": "CBSE 2024, 31/31/1/1, Q7",
+  "options": [
+   "MnO₂ is oxidised and HCl is reduced.",
+   "HCl is oxidised.",
+   "MnO₂ is reduced.",
+   "MnO₂ is reduced and HCl is oxidised."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2024-q08",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Heredity",
+  "topics": [
+   "sex determination in humans",
+   "XX and XY chromosomes"
+  ],
+  "keywords": [
+   "fertilisation",
+   "father determines sex"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Consider the following statements: (i) The sex of a child is determined by what it inherits from the mother. (ii) The sex of a child is determined by what it inherits from the father. (iii) The probability of having a male child is more than that of a female child. (iv) The sex of a child is determined at the time of fertilisation when male and female gametes fuse to form a zygote. The correct statements are:",
+  "solution": "The mother always passes X, while the father passes X or Y, so the father's contribution determines sex (ii).\nSex is fixed when the gametes fuse at fertilisation (iv).\nThe probability of a male or female child is equal (50%), so (iii) is false.",
+  "source": "CBSE 2024, 31/31/1/1, Q8",
+  "options": [
+   "(i) and (iii)",
+   "(ii) and (iv)",
+   "(iii) and (iv)",
+   "(i), (iii) and (iv)"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2024-q09",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Heredity",
+  "topics": [
+   "chromosomes",
+   "hereditary information"
+  ],
+  "keywords": [
+   "thread-like structures",
+   "cell division"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Chromosomes: (i) carry hereditary information from parents to the next generation. (ii) are thread-like structures located inside the nucleus of an animal cell. (iii) always exist in pairs in human reproductive cells. (iv) are involved in the process of cell division. The correct statements are:",
+  "solution": "(i), (ii) and (iv) are correct.\n(iii) is false: human reproductive cells (gametes) have only one chromosome from each pair (23 single chromosomes).",
+  "source": "CBSE 2024, 31/31/1/1, Q9",
+  "options": [
+   "(i) and (ii)",
+   "(iii) and (iv)",
+   "(i), (ii) and (iv)",
+   "(i) and (iv)"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q10",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "neuron",
+   "synapse",
+   "nerve impulse"
+  ],
+  "keywords": [
+   "electrical to chemical signal",
+   "axon terminal"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "In a nerve cell, the site where the electrical impulse is converted into a chemical signal is known as:",
+  "solution": "When the impulse reaches the end of the axon, it triggers release of chemicals (neurotransmitters) that cross the gap to the next cell. So the electrical impulse is converted into a chemical signal at the axon's end.",
+  "source": "CBSE 2024, 31/31/1/1, Q10",
+  "options": [
+   "Axon",
+   "Dendrites",
+   "Neuromuscular junction",
+   "Cell body"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2024-q11",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "stomata",
+   "guard cells",
+   "transpiration"
+  ],
+  "keywords": [
+   "closing of stomata",
+   "carbon dioxide"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "A stomata closes when: (i) it needs carbon dioxide for photosynthesis. (ii) it does not need carbon dioxide for photosynthesis. (iii) water flows out of the guard cells. (iv) water flows into the guard cells. The correct reason(s) in this process is/are:",
+  "solution": "Stomata close when the plant does not need CO₂ (ii).\nGuard cells then lose water, become flaccid and the pore closes (iii).\nWhen water flows into guard cells they swell and the stomata open.",
+  "source": "CBSE 2024, 31/31/1/1, Q11",
+  "options": [
+   "(i) only",
+   "(i) and (iii)",
+   "(ii) and (iii)",
+   "(i) and (iv)"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q12",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "image formation by convex lens",
+   "same size image"
+  ],
+  "keywords": [
+   "object at 2F",
+   "real inverted image"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "At what distance from a convex lens should an object be placed to get an image of the same size as that of the object on a screen?",
+  "solution": "For a convex lens, the real, inverted image of the same size is formed when the object is at 2F; the image is also formed at 2F on the other side.",
+  "source": "CBSE 2024, 31/31/1/1, Q12",
+  "options": [
+   "Beyond twice the focal length of the lens.",
+   "At the principal focus of the lens.",
+   "At twice the focal length of the lens.",
+   "Between the optical centre of the lens and its principal focus."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q13",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "human eye",
+   "retina"
+  ],
+  "keywords": [
+   "light sensitive screen",
+   "image formation"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "The lens system of the human eye forms an image on a light-sensitive screen, which is called:",
+  "solution": "The retina is the light-sensitive screen on which the eye lens forms a real, inverted image.",
+  "source": "CBSE 2024, 31/31/1/1, Q13",
+  "options": [
+   "Cornea",
+   "Ciliary muscles",
+   "Optic nerves",
+   "Retina"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2024-q15",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "food chain",
+   "trophic levels"
+  ],
+  "keywords": [
+   "second trophic level",
+   "herbivore missing"
+  ],
+  "type": "MCQ",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "Identify the food chain in which the organisms of the second trophic level are missing:",
+  "solution": "The second trophic level is formed by herbivores. Option (a) has goat, (b) has zooplankton, (d) has grasshopper as herbivores.\nIn (c) Tiger, grass, snake, frog: only grass is a producer and the rest are carnivores, so there is no herbivore.",
+  "source": "CBSE 2024, 31/31/1/1, Q15",
+  "options": [
+   "Grass, goat, lion",
+   "Zooplankton, Phytoplankton, small fish, large fish",
+   "Tiger, grass, snake, frog",
+   "Grasshopper, grass, snake, frog, eagle"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q16",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "multiple fission",
+   "asexual reproduction"
+  ],
+  "keywords": [
+   "Plasmodium",
+   "binary fission"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "In which of the following organisms is multiple fission a means of asexual reproduction?",
+  "solution": "Plasmodium divides into many daughter cells at once (multiple fission). Yeast shows budding, Leishmania shows binary fission (at a fixed end) and Paramoecium shows binary fission.",
+  "source": "CBSE 2024, 31/31/1/1, Q16",
+  "options": [
+   "Yeast",
+   "Leishmania",
+   "Paramoecium",
+   "Plasmodium"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2024-q17",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "reaction of metals with nitric acid",
+   "oxidising agent"
+  ],
+  "keywords": [
+   "hydrogen gas not evolved",
+   "zinc"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Assertion (A): Hydrogen gas is not evolved when zinc reacts with nitric acid.\nReason (R): Nitric acid oxidises the hydrogen gas produced to water and itself gets reduced.",
+  "solution": "HNO₃ is a strong oxidising agent. It oxidises the H₂ formed to water and is itself reduced to oxides of nitrogen, so H₂ is not evolved. Both A and R are true and R explains A.",
+  "source": "CBSE 2024, 31/31/1/1, Q17",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2024-q18",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "biological magnification",
+   "pesticides in food chain"
+  ],
+  "keywords": [
+   "highest trophic level",
+   "harmful chemicals"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Assertion (A): Accumulation of harmful chemicals is maximum in the organisms at the highest trophic level of a food chain.\nReason (R): Harmful chemicals are sprayed on the crops to protect them from diseases and pests.",
+  "solution": "A is true because of biological magnification (non-biodegradable chemicals build up at each successive level).\nR is also true, but it only says why chemicals enter the food chain, not why they accumulate most at the top.",
+  "source": "CBSE 2024, 31/31/1/1, Q18",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2024-q19",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "breathing in aquatic organisms",
+   "dissolved oxygen"
+  ],
+  "keywords": [
+   "rate of breathing",
+   "gills"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Assertion (A): The rate of breathing in aquatic organisms is much faster than in terrestrial organisms.\nReason (R): The amount of oxygen dissolved in water is very high as compared to the amount of oxygen in air.",
+  "solution": "A is true: aquatic organisms breathe faster. R is false: the amount of dissolved oxygen in water is low compared with air, which is why aquatic animals have to breathe faster.",
+  "source": "CBSE 2024, 31/31/1/1, Q19",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q20",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "rainbow formation",
+   "dispersion of light"
+  ],
+  "keywords": [
+   "natural spectrum",
+   "water droplets"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Assertion (A): The rainbow is a natural spectrum of sunlight in the sky.\nReason (R): Rainbow is formed in the sky when the sun is overhead and water droplets are also present in air.",
+  "solution": "A is true: water droplets disperse sunlight into a spectrum.\nR is false: a rainbow is seen when the Sun is behind the observer (low in the sky), not overhead.",
+  "source": "CBSE 2024, 31/31/1/1, Q20",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2024-q21",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "combination reaction",
+   "reaction of quicklime with water"
+  ],
+  "keywords": [
+   "calcium oxide",
+   "calcium hydroxide",
+   "slaked lime"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Conceptual",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Name the type of chemical reaction in which calcium oxide reacts with water. Justify your answer by giving the balanced chemical equation for the chemical reaction.",
+  "solution": "It is a combination reaction (and also exothermic).\nCaO + H₂O → Ca(OH)₂ + heat.\nTwo reactants combine to form a single product, calcium hydroxide (slaked lime).",
+  "source": "CBSE 2024, 31/31/1/1, Q21"
+ },
+ {
+  "id": "sci-2024-q22",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "human digestive system",
+   "digestive enzymes"
+  ],
+  "keywords": [
+   "hydrochloric acid",
+   "villi",
+   "anal sphincter",
+   "lipase"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Theory",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "State one role of each of the following in the human digestive system:\n(i) Hydrochloric acid\n(ii) Villi\n(iii) Anal sphincter\n(iv) Lipase",
+  "solution": "(i) HCl creates an acidic medium for pepsin to act and kills bacteria in food.\n(ii) Villi increase the surface area for absorption of digested food.\n(iii) The anal sphincter regulates the exit of faeces from the body.\n(iv) Lipase breaks down emulsified fats into fatty acids and glycerol.",
+  "source": "CBSE 2024, 31/31/1/1, Q22"
+ },
+ {
+  "id": "sci-2024-q23",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "plant movements",
+   "hormones",
+   "thyroxine"
+  ],
+  "keywords": [
+   "sensitive plant",
+   "geotropism",
+   "iodised salt",
+   "goitre"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Theory",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(a) How is the movement of leaves of a sensitive plant different from the downward movement of the roots?\nOR\n(b) There is a hormone which regulates carbohydrate, protein and fat metabolism in our body. Name the hormone and the gland which secretes it. Why is it important for us to have iodised salt in our diet?",
+  "solution": "(a) Leaf movement of the sensitive plant (touch-me-not) is a nastic movement: it is a fast response to touch, not directed towards the stimulus, and does not involve growth; it occurs through changes in water in cells. The downward movement of roots is geotropism: a directional, slow growth movement.\n(b) The hormone is thyroxine, secreted by the thyroid gland. Iodine is needed to make thyroxine; its deficiency can cause goitre.",
+  "source": "CBSE 2024, 31/31/1/1, Q23"
+ },
+ {
+  "id": "sci-2024-q24",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "image formation by convex mirror",
+   "mirror formula"
+  ],
+  "keywords": [
+   "focal length 15 cm",
+   "object distance 10 cm"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "An object is placed at a distance of 10 cm from a convex mirror of focal length 15 cm. Find the position of the image formed by the mirror.",
+  "solution": "u = −10 cm, f = +15 cm.\n1/v = 1/f − 1/u = 1/15 + 1/10 = 5/30 → v = +6 cm.\nThe image is formed 6 cm behind the mirror (virtual, erect and diminished).",
+  "source": "CBSE 2024, 31/31/1/1, Q24"
+ },
+ {
+  "id": "sci-2024-q25",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "series and parallel combination of resistors",
+   "equivalent resistance"
+  ],
+  "keywords": [
+   "three resistors",
+   "6 ohm",
+   "9 ohm"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Show how you would connect three resistors, each of resistance 6 Ω, so that the combination has a resistance of 9 Ω. Also justify your answer.",
+  "solution": "Connect two of the resistors in parallel and put the third in series with this combination.\nParallel part: 1/R = 1/6 + 1/6 → R = 3 Ω.\nTotal = 3 + 6 = 9 Ω.",
+  "source": "CBSE 2024, 31/31/1/1, Q25"
+ },
+ {
+  "id": "sci-2024-q26",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "topics": [
+   "magnetic field lines",
+   "uniform magnetic field"
+  ],
+  "keywords": [
+   "field lines do not intersect",
+   "parallel lines"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Reasoning",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(i) Two magnetic field lines do not intersect each other. Why?\n(ii) How is a uniform magnetic field in a given region represented? Draw a diagram in support of your answer.",
+  "solution": "(i) If two field lines intersected, a compass needle placed at the point of intersection would point in two directions at once, which is impossible.\n(ii) A uniform field is represented by parallel, equidistant straight lines (same direction and same spacing everywhere), for example the field inside a long solenoid.",
+  "source": "CBSE 2024, 31/31/1/1, Q26"
+ },
+ {
+  "id": "sci-2024-q27",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "types of chemical reactions",
+   "observations in reactions",
+   "precipitation reaction"
+  ],
+  "keywords": [
+   "colour change",
+   "temperature change",
+   "precipitate"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Write one chemical equation each for the chemical reaction in which the following have taken place:\n(i) Change in colour\n(ii) Change in temperature\n(iii) Formation of precipitate\nMention the colour change / temperature change (rise/fall) / compound precipitated along with the equation.",
+  "solution": "(i) Colour change: Zn + CuSO₄ → ZnSO₄ + Cu (blue solution fades to colourless).\n(ii) Temperature change: CaO + H₂O → Ca(OH)₂ + heat (temperature rises).\n(iii) Precipitate: Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl (white precipitate of barium sulphate).",
+  "source": "CBSE 2024, 31/31/1/1, Q27"
+ },
+ {
+  "id": "sci-2024-q28",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "pH scale",
+   "strong and weak acids and bases",
+   "acid rain"
+  ],
+  "keywords": [
+   "tomato juice",
+   "aquatic animals"
+  ],
+  "type": "Short Answer",
+  "nature": "Reasoning",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(i) The pH of a sample of tomato juice is 4.6. How is this juice likely to taste? Give a reason to justify your answer. (1)\n(ii) How do we differentiate between a strong acid and a weak base in terms of ion-formation in aqueous solutions? (1)\n(iii) Acid rain can make the survival of aquatic animals difficult. How? (1)",
+  "solution": "(i) pH 4.6 is less than 7, so the juice is acidic and tastes sour (it contains excess H⁺ ions).\n(ii) A strong acid ionises completely in water to give a large number of H⁺ ions; a weak base ionises only partially, giving fewer OH⁻ ions.\n(iii) Acid rain lowers the pH of river water, making it acidic, and aquatic organisms cannot survive at that low pH.",
+  "source": "CBSE 2024, 31/31/1/1, Q28"
+ },
+ {
+  "id": "sci-2024-q29",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "respiration",
+   "respiratory pigment",
+   "human respiratory system"
+  ],
+  "keywords": [
+   "haemoglobin",
+   "alveoli",
+   "residual volume"
+  ],
+  "type": "Short Answer",
+  "nature": "Reasoning",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(i) Why is a respiratory pigment needed in multicellular organisms with large body size? (1)\n(ii) Give reasons for the following: (2)\n(a) Rings of cartilage are present in the throat.\n(b) Lungs always contain a residual volume of air.\n(c) The diaphragm flattens and ribs are lifted up when we breathe in.\n(d) Walls of alveoli contain an extensive network of blood vessels.",
+  "solution": "(i) In large bodies, diffusion alone cannot supply enough oxygen to all cells. A respiratory pigment such as haemoglobin carries oxygen efficiently to tissues.\n(ii)(a) The cartilage rings keep the windpipe from collapsing when there is no air in it.\n(b) The residual volume allows oxygen to be absorbed continuously, even between breaths.\n(c) This increases the chest cavity volume and lowers the pressure, so air is drawn into the lungs.\n(d) The blood vessels allow rapid exchange of oxygen and carbon dioxide between blood and air.",
+  "source": "CBSE 2024, 31/31/1/1, Q29"
+ },
+ {
+  "id": "sci-2024-q30",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "reflex action",
+   "reflex arc"
+  ],
+  "keywords": [
+   "sneezing",
+   "flow chart"
+  ],
+  "type": "Short Answer",
+  "nature": "Theory",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Define reflex action. With the help of a flow chart show the path of a reflex action such as sneezing.",
+  "solution": "A reflex action is a sudden, automatic and involuntary response to a stimulus.\nPath: Stimulus (irritant in nose) → Receptor (nasal lining) → Sensory neuron → Spinal cord / brain (relay neuron) → Motor neuron → Effector (muscles of chest and diaphragm) → Response (sneeze).",
+  "source": "CBSE 2024, 31/31/1/1, Q30"
+ },
+ {
+  "id": "sci-2024-q32",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "topics": [
+   "right-hand thumb rule",
+   "Fleming's left-hand rule"
+  ],
+  "keywords": [
+   "magnetic field around conductor",
+   "force on conductor"
+  ],
+  "type": "Short Answer",
+  "nature": "Theory",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Name and state the rule to determine the direction of:\n(i) the magnetic field produced around a current-carrying straight conductor.\n(ii) the force experienced by a current-carrying straight conductor placed in a magnetic field which is perpendicular to it.",
+  "solution": "(i) Right-hand thumb rule: imagine holding the conductor in your right hand with the thumb pointing in the direction of current; the fingers then curl in the direction of the magnetic field lines.\n(ii) Fleming's left-hand rule: stretch the thumb, forefinger and middle finger of the left hand at right angles to each other; if the forefinger points along the field and the middle finger along the current, the thumb gives the direction of force.",
+  "source": "CBSE 2024, 31/31/1/1, Q32"
+ },
+ {
+  "id": "sci-2024-q33",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "food chain",
+   "food web",
+   "ozone depletion"
+  ],
+  "keywords": [
+   "trophic levels",
+   "CFC",
+   "UNEP"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "(a) In the food chain Plants → Deer → Lion, what will be the impact of removing all the organisms of the second trophic level on the first and third trophic levels? Will the impact be the same for the organisms of the third trophic level if they were present in a food web? Justify.\nOR\n(b) A gas 'X', which is a deadly poison, is found at higher levels of the atmosphere and performs an essential function. Name the gas and write the function performed by it in the atmosphere. Which chemical is linked to the decrease in the level of this gas? What measures have been taken by an international organisation to check the depletion of the layer containing this gas?",
+  "solution": "(a) Removing deer: plants (first level) would increase as they are no longer eaten; lions (third level) would starve and decline since they depend wholly on deer. In a food web the impact on the third level would be much smaller because the lion can feed on other organisms.\n(b) The gas is ozone (O₃). It absorbs the harmful ultraviolet radiation of the Sun and protects life on Earth. Chlorofluorocarbons (CFCs) are linked to its depletion. The UN Environment Programme (UNEP) got countries to agree to freeze CFC production at 1986 levels (later the Montreal Protocol to phase them out).",
+  "source": "CBSE 2024, 31/31/1/1, Q33"
+ },
+ {
+  "id": "sci-2024-q34",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "topics": [
+   "homologous series",
+   "intermolecular forces",
+   "ethanol dehydration",
+   "isomers"
+  ],
+  "keywords": [
+   "aldehyde",
+   "ketone",
+   "ethene",
+   "concentrated sulphuric acid"
+  ],
+  "type": "Long Answer",
+  "nature": "Theory",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "(a) (i) Define a homologous series of carbon compounds. (ii) Why are the melting and boiling points of C₄H₈ higher than those of C₃H₆ or C₂H₄? (iii) Why do we NOT see any gradation in chemical properties of homologous series compounds? (iv) Write the name and structures of (a) an aldehyde and (b) a ketone with molecular formula C₃H₆O.\nOR\n(b) (i) Write the name and structure of an organic compound 'X' having two carbon atoms in its molecule and whose name is suffixed with '–ol'. (ii) What happens when 'X' is heated with excess concentrated sulphuric acid at 443 K? Write the chemical equation, stating the conditions, and the role played by conc. H₂SO₄. (iii) Name and draw the electron dot structure of the hydrocarbon produced in the above reaction.",
+  "solution": "(a)(i) A homologous series is a group of organic compounds with the same functional group and similar chemical properties, in which successive members differ by a –CH₂– unit.\n(ii) C₄H₈ has a larger molecular mass, so the intermolecular forces are stronger and more energy is required to melt or boil it.\n(iii) Chemical properties depend on the functional group, which is the same for all members, so there is no gradation in chemical properties.\n(iv) Aldehyde: propanal, CH₃CH₂CHO. Ketone: propanone, CH₃COCH₃.\n(b)(i) X is ethanol, CH₃CH₂OH.\n(ii) Ethanol is dehydrated to ethene: CH₃CH₂OH → (conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O. Conc. H₂SO₄ acts as a dehydrating agent.\n(iii) The hydrocarbon is ethene, H₂C=CH₂. In the electron dot structure the two carbons share two pairs of electrons (double bond) and each carbon shares one pair with each of two hydrogens.",
+  "source": "CBSE 2024, 31/31/1/1, Q34"
+ },
+ {
+  "id": "sci-2024-q35",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "human reproduction",
+   "contraception",
+   "fertilisation",
+   "menstruation",
+   "spore formation in Rhizopus",
+   "budding in Hydra"
+  ],
+  "keywords": [
+   "contraceptive methods",
+   "side effects",
+   "Hydra"
+  ],
+  "type": "Long Answer",
+  "nature": "Theory",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(a) (i) Name three techniques/devices used by human females to avoid pregnancy. Mention the side effects caused by each. (ii) What will happen if in a human female (a) fertilisation takes place, (b) an egg is not fertilised?\nOR\n(b) (i) Draw a diagram showing spore formation in Rhizopus and label the (a) reproductive and (b) non-reproductive parts. Why does Rhizopus not multiply on a dry slice of bread? (ii) Name and explain the process by which reproduction takes place in Hydra.",
+  "solution": "(a)(i) Copper-T (IUD) placed in the uterus: may cause irritation or infection. Oral contraceptive pills: hormonal imbalance, nausea, weight changes. Surgical methods (tubectomy): surgical risks and infection if not done properly.\n(ii)(a) Fertilisation: a zygote forms and implants in the thick uterine lining and develops into an embryo.\n(b) The egg is not fertilised: the uterine lining breaks down and is shed with blood as menstruation.\n(b)(i) In Rhizopus the hyphae are the non-reproductive parts (they spread over the bread) and the sporangia (stalks bearing spores) are the reproductive parts. On a dry slice of bread there is no moisture, so the spores cannot germinate and grow.\n(ii) Hydra reproduces by budding: a small outgrowth (bud) develops by repeated cell division at one site, grows into a tiny individual and detaches when mature.",
+  "source": "CBSE 2024, 31/31/1/1, Q35"
+ },
+ {
+  "id": "sci-2024-q36",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "electric power",
+   "electrical energy",
+   "resistivity",
+   "resistance of a wire"
+  ],
+  "keywords": [
+   "electric oven",
+   "11 units",
+   "units of resistivity"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "(a) (i) Define electric power. Express it in terms of potential difference (V) and resistance (R). (ii) An electric oven is designed to work on the mains voltage of 220 V. This oven consumes 11 units of electrical energy in 5 hours. Calculate: (a) power rating of the oven (b) current drawn by the oven (c) resistance of the oven when it is red hot.\nOR\n(b) (i) Write the relation between resistance R and electrical resistivity ρ of the material of a conductor in the shape of a cylinder of length l and area of cross-section A. Hence derive the SI unit of electrical resistivity. (ii) The resistance of a metal wire of length 3 m is 60 Ω. If the area of cross-section of the wire is 4×10⁻⁷ m², calculate the electrical resistivity of the wire. (iii) State how electrical resistivity would be affected if the wire (of part ii) is stretched so that its length is doubled. Justify your answer.",
+  "solution": "(a)(i) Electric power is the rate at which electrical energy is consumed: P = VI = V²/R.\n(ii)(a) 11 units = 11 kWh. P = 11 kWh / 5 h = 2.2 kW = 2200 W.\n(b) I = P/V = 2200/220 = 10 A.\n(c) R = V/I = 220/10 = 22 Ω.\n(b)(i) R = ρl/A, so ρ = RA/l. SI unit = Ω·m²/m = Ω m.\n(ii) ρ = RA/l = (60 × 4×10⁻⁷)/3 = 8×10⁻⁶ Ω m.\n(iii) Resistivity does not change; it depends only on the material (and temperature), not on the dimensions. (The resistance will increase to four times when length is doubled and area halves.)",
+  "source": "CBSE 2024, 31/31/1/1, Q36"
+ },
+ {
+  "id": "sci-2024-q37",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "electrolytic refining of copper",
+   "reactivity series",
+   "displacement reaction"
+  ],
+  "keywords": [
+   "anode",
+   "cathode",
+   "copper sulphate",
+   "zinc strip",
+   "silver strip"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "The metals produced by various reduction processes are not very pure. They contain impurities, which must be removed to obtain pure metals. The most widely used method for refining impure metals is electrolytic refining.\n(i) What are the cathode and the anode made of in the refining of copper by this process? (1)\n(ii) Name the solution used in the above process and write its formula. (1)\n(iii) (a) How does copper get refined when electric current is passed in the electrolytic cell? (2)\nOR\n(iii) (b) You have two beakers 'A' and 'B' containing copper sulphate solution. What would you observe after about 2 hours if you dip a strip of zinc in beaker 'A' and a strip of silver in beaker 'B'? Give reason for your observations in each case. (2)",
+  "solution": "(i) Cathode: a thin strip of pure copper. Anode: a thick block of impure copper.\n(ii) The electrolyte is acidified copper sulphate solution, CuSO₄.\n(iii)(a) On passing current, copper from the anode dissolves into the solution as Cu²⁺ and an equal amount of pure copper is deposited on the cathode. The insoluble impurities settle below the anode as anode mud.\n(iii)(b) Beaker A: the blue colour fades and a reddish-brown deposit of copper forms on the zinc strip, because zinc is more reactive than copper and displaces it. Beaker B: no change, because silver is less reactive than copper and cannot displace it.",
+  "source": "CBSE 2024, 31/31/1/1, Q37"
+ },
+ {
+  "id": "sci-2024-q38",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Heredity",
+  "topics": [
+   "Mendel's experiments",
+   "dominant and recessive traits",
+   "dihybrid cross",
+   "independent assortment"
+  ],
+  "keywords": [
+   "pea plant",
+   "F1 generation",
+   "9:3:3:1"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Mendel worked out the rules of heredity by working on garden pea using a number of visible contrasting characters. He conducted several experiments by making a cross with one or two pairs of contrasting characters of pea plant.\n(i) When Mendel crossed pure tall and pure short pea plants to produce F₁ progeny, which two observations were made by him in F₁ plants? (1)\n(ii) Write one difference between a dominant and a recessive trait. (1)\n(iii) (a) In a cross with two pairs of contrasting characters, RRYY (Round Yellow) × rryy (Wrinkled Green), Mendel observed 4 types of combinations in the F₂ generation. By which method did he obtain the F₂ generation? Write the ratio of the parental combinations obtained and the conclusion drawn from this experiment. (2)\nOR\n(iii) (b) Justify the statement: \"It is possible that a trait is inherited but may not be expressed.\" (2)",
+  "solution": "(i) All F₁ plants were tall (no medium-height plants, i.e. no blending), and only one of the two parental traits appeared.\n(ii) A dominant trait expresses itself even when only one copy of the gene is present, whereas a recessive trait is expressed only when two copies are present.\n(iii)(a) F₂ was obtained by self-pollination of F₁ plants. The F₂ ratio is 9 : 3 : 3 : 1; parental combinations (round yellow : wrinkled green) are in the ratio 9 : 1, and the new combinations (round green and wrinkled yellow) are 3 : 3. The conclusion is that traits are inherited independently of each other (independent assortment).\n(iii)(b) In a TT × tt cross all F₁ plants (Tt) are tall: the allele for shortness is inherited but is masked by the dominant tall allele. It reappears in F₂ in the homozygous recessive (tt) plants.",
+  "source": "CBSE 2024, 31/31/1/1, Q38"
+ },
+ {
+  "id": "sci-2024-q39",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "image formation by concave mirror",
+   "mirror formula",
+   "magnification"
+  ],
+  "keywords": [
+   "focal length",
+   "object distance",
+   "three concave mirrors"
+  ],
+  "type": "Case Study",
+  "nature": "Numerical",
+  "marks": 4,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "Study the data given below showing the focal length of three concave mirrors A, B and C and the respective distances of objects placed in front of the mirrors:\nCase 1: Mirror A, focal length 20 cm, object distance 45 cm.\nCase 2: Mirror B, focal length 15 cm, object distance 30 cm.\nCase 3: Mirror C, focal length 30 cm, object distance 20 cm.\n(i) In which one of the above cases will the mirror form a diminished image of the object? Justify your answer. (1)\n(ii) List two properties of the image formed in case 2. (1)\n(iii) (a) What is the nature and size of the image formed by mirror C? Draw a ray diagram to justify your answer. (2)\nOR\n(iii) (b) An object is placed at a distance of 18 cm from the pole of a concave mirror of focal length 12 cm. Find the position of the image formed in this case. (2)",
+  "solution": "(i) Case 1: the object (45 cm) is beyond 2f (40 cm), so the image lies between F and C and is real, inverted and diminished. (Check: 1/v = −1/20 + 1/45 → v = −36 cm, m = −0.8.)\n(ii) In case 2 the object is at 2f (30 cm), so the image is formed at 2f (30 cm): it is real and inverted and of the same size as the object.\n(iii)(a) Object (20 cm) is between P and F (30 cm). 1/v = −1/30 + 1/20 = 1/60 → v = +60 cm; m = −v/u = +3. The image is virtual, erect and enlarged (3 times). Ray diagram: a ray parallel to the axis reflects through F; a ray towards the pole reflects symmetrically; the reflected rays diverge and appear to meet behind the mirror.\n(iii)(b) u = −18 cm, f = −12 cm: 1/v = 1/f − 1/u = −1/12 + 1/18 = −1/36 → v = −36 cm. The image is formed 36 cm in front of the mirror.",
+  "source": "CBSE 2024, 31/31/1/1, Q39"
+ }
+]

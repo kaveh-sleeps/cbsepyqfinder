@@ -1,0 +1,65 @@
+{
+ "12": {
+  "Physics": [
+   "Electric Charges and Fields",
+   "Electrostatic Potential and Capacitance",
+   "Current Electricity",
+   "Moving Charges and Magnetism",
+   "Magnetism and Matter",
+   "Electromagnetic Induction",
+   "Alternating Current",
+   "Electromagnetic Waves",
+   "Ray Optics and Optical Instruments",
+   "Wave Optics",
+   "Dual Nature of Radiation and Matter",
+   "Atoms",
+   "Nuclei",
+   "Semiconductor Electronics"
+  ],
+  "Chemistry": [
+   "Solutions",
+   "Electrochemistry",
+   "Chemical Kinetics",
+   "d- and f-Block Elements",
+   "Coordination Compounds",
+   "Haloalkanes and Haloarenes",
+   "Alcohols, Phenols and Ethers",
+   "Aldehydes, Ketones and Carboxylic Acids",
+   "Amines",
+   "Biomolecules"
+  ]
+ },
+ "10": {
+  "Science": [
+   "Chemical Reactions and Equations",
+   "Acids, Bases and Salts",
+   "Metals and Non-metals",
+   "Carbon and its Compounds",
+   "Life Processes",
+   "Control and Coordination",
+   "How do Organisms Reproduce?",
+   "Heredity",
+   "Light – Reflection and Refraction",
+   "The Human Eye and the Colourful World",
+   "Electricity",
+   "Magnetic Effects of Electric Current",
+   "Our Environment"
+  ],
+  "Maths": [
+   "Real Numbers",
+   "Polynomials",
+   "Pair of Linear Equations in Two Variables",
+   "Quadratic Equations",
+   "Arithmetic Progressions",
+   "Triangles",
+   "Coordinate Geometry",
+   "Introduction to Trigonometry",
+   "Some Applications of Trigonometry",
+   "Circles",
+   "Areas Related to Circles",
+   "Surface Areas and Volumes",
+   "Statistics",
+   "Probability"
+  ]
+ }
+}

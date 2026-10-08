@@ -1,0 +1,981 @@
+[
+ {
+  "id": "sci-2026-q01",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "gaseous exchange in leaves",
+   "stomata"
+  ],
+  "keywords": [
+   "leaf",
+   "exchange of gases"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Which structure in a leaf is mainly responsible for gaseous exchange?",
+  "solution": "Stomata are tiny pores on the leaf surface through which CO₂ enters and O₂ leaves; they also let out water vapour.",
+  "source": "CBSE 2026, 31/1/1, Q1",
+  "options": [
+   "Xylem",
+   "Stomata",
+   "Phloem",
+   "Cuticle"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2026-q03",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "asexual reproduction",
+   "fragmentation, budding and fission"
+  ],
+  "keywords": [
+   "spirogyra",
+   "leishmania",
+   "hydra"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Identify the correct statement for spirogyra, leishmania and hydra:",
+  "solution": "Spirogyra reproduces by fragmentation, Leishmania by binary fission and Hydra by budding, all asexual methods.\nLeishmania is unicellular while spirogyra and Hydra are multicellular, so only (D) is true for all three.",
+  "source": "CBSE 2026, 31/1/1, Q3",
+  "options": [
+   "they reproduce sexually.",
+   "they are unicellular.",
+   "they are multicellular.",
+   "they reproduce asexually."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2026-q04",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "human brain",
+   "cerebellum"
+  ],
+  "keywords": [
+   "precision of voluntary actions",
+   "balance"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The human brain has various parts that help in different actions, responses and coordination. From the following, identify the part responsible for precision of voluntary actions:",
+  "solution": "The cerebellum (hind-brain) coordinates posture, balance and the precision of voluntary movements (e.g. picking up a pencil).",
+  "source": "CBSE 2026, 31/1/1, Q4",
+  "options": [
+   "Cerebrum",
+   "Cerebellum",
+   "Medulla",
+   "Pons"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2026-q05",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "pancreatic juice",
+   "digestive enzymes"
+  ],
+  "keywords": [
+   "trypsin",
+   "lipase"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The pancreas secretes pancreatic juice which contains certain enzymes that help in digestion of food. Choose the correct option:",
+  "solution": "Trypsin digests proteins into amino acids; lipase breaks down emulsified fats (the bile salts first emulsify them).",
+  "source": "CBSE 2026, 31/1/1, Q5",
+  "options": [
+   "Trypsin digests emulsified fats and lipase digests proteins.",
+   "Trypsin digests proteins and lipase digests emulsified fats.",
+   "Trypsin and lipase both digest fats.",
+   "Trypsin digests proteins and lipase digests carbohydrates."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2026-q07",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "biodegradable and non-biodegradable waste"
+  ],
+  "keywords": [
+   "polythene",
+   "rubber band",
+   "ball pen"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Which of the following groups is not 'biodegradable'?",
+  "solution": "Polythene, rubber bands and ball pens (plastics) cannot be broken down by microorganisms, so they are non-biodegradable. The other groups contain organic materials.",
+  "source": "CBSE 2026, 31/1/1, Q7",
+  "options": [
+   "Vegetable peels, dead leaves, paper",
+   "Cow dung, leather bag, water",
+   "Polythene bag, rubber band, ball pen",
+   "Paper, fruits, bones"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2026-q08",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "reflex action",
+   "spinal cord"
+  ],
+  "keywords": [
+   "no thinking involved"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Assertion (A): Reflex actions do not involve thinking.\nReason (R): Most reflex actions are controlled by the spinal cord.",
+  "solution": "Reflex actions are quick, automatic responses and the signal does not travel to the thinking part of the brain, because the spinal cord handles the response. So both statements are true and R explains A.",
+  "source": "CBSE 2026, 31/1/1, Q8",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2026-q09",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "haemoglobin",
+   "oxygen transport"
+  ],
+  "keywords": [
+   "respiratory pigment",
+   "red blood cells"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Assertion (A): In human beings, the respiratory pigment is haemoglobin present in red blood cells.\nReason (R): Haemoglobin has a very high affinity for carbon dioxide.",
+  "solution": "A is true. R is false: haemoglobin has a very high affinity for oxygen (it picks up oxygen in the lungs); most CO₂ is carried dissolved in blood plasma.",
+  "source": "CBSE 2026, 31/1/1, Q9",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2026-q10",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "topics": [
+   "diaphragm",
+   "breathing mechanism"
+  ],
+  "keywords": [
+   "human respiratory system"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Theory",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "What is the function of the diaphragm in the human respiratory system? Where is it present in the human body?",
+  "solution": "The diaphragm is a muscular sheet that separates the chest cavity (thorax) from the abdominal cavity. When it contracts and flattens during inhalation, the chest volume increases and air rushes into the lungs; on relaxing, air is pushed out.",
+  "source": "CBSE 2026, 31/1/1, Q10"
+ },
+ {
+  "id": "sci-2026-q11",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "voluntary and involuntary actions",
+   "pollination and fertilisation"
+  ],
+  "keywords": [
+   "chewing",
+   "salivation",
+   "pollination"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Theory",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) State two differences between the act of chewing food and salivation on sight of food.\nOR\n(b) State two differences between pollination and fertilisation.",
+  "solution": "(a) Chewing is a voluntary action controlled by the fore-brain (cerebrum); salivation on sight of food is an involuntary action controlled by the medulla (hind-brain). Chewing is under our conscious control; salivation happens automatically.\n(b) Pollination is the transfer of pollen from anther to stigma (it occurs outside the ovule), whereas fertilisation is the fusion of male and female gametes inside the ovule. Pollination comes before fertilisation and makes it possible.",
+  "source": "CBSE 2026, 31/1/1, Q11"
+ },
+ {
+  "id": "sci-2026-q12",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "pollen germination",
+   "pollen tube",
+   "sexual reproduction in flowering plants"
+  ],
+  "keywords": [
+   "stigma",
+   "male germ cell"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Theory",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Draw a neat diagram to show germination of pollen on the female reproductive part of the flower. Name and label only the following parts: (a) the part that receives the pollen grain, (b) the structure that carries the male germ cell to reach the female germ cell.",
+  "solution": "(a) Stigma (the sticky top of the pistil) receives the pollen grain.\n(b) Pollen tube carries the male germ cell down through the style to reach the ovule and the egg cell.\nDiagram: show the pollen grain on the stigma, the pollen tube growing down through the style into the ovary and entering the ovule.",
+  "source": "CBSE 2026, 31/1/1, Q12"
+ },
+ {
+  "id": "sci-2026-q13",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "topics": [
+   "trophic levels",
+   "ecological pyramid",
+   "energy flow in ecosystem"
+  ],
+  "keywords": [
+   "10 per cent law",
+   "producers",
+   "consumers"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "A pyramid shows various trophic levels in an ecosystem (producers at the base, then primary, secondary and tertiary consumers).\n(a) From the organisms listed below, identify which one is to be placed at which trophic level: Deer, Grass, Lion, Snake, Rabbit.\n(b) Discuss the reason why primary consumers will have more energy as compared to secondary consumers.\n(c) Why is the base of the pyramid broad?",
+  "solution": "(a) Producers: Grass. Primary consumers: Deer, Rabbit. Secondary consumers: Snake. Tertiary consumers: Lion.\n(b) Only about 10% of the energy at one trophic level passes to the next; the rest is lost as heat during respiration and other life processes, so primary consumers have more energy than secondary consumers.\n(c) The base is broad because producers are the most numerous and hold the largest amount of energy/biomass; each level above supports fewer organisms.",
+  "source": "CBSE 2026, 31/1/1, Q13"
+ },
+ {
+  "id": "sci-2026-q14",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "topics": [
+   "functional unit of kidney and nervous system",
+   "sensory and motor nerves",
+   "consumers and decomposers"
+  ],
+  "keywords": [
+   "nephron",
+   "neuron",
+   "decomposers"
+  ],
+  "type": "Short Answer",
+  "nature": "Theory",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Give differences between the following:\n(a) Nephron and neuron\n(b) Sensory nerve and motor nerve\n(c) Consumers and decomposers",
+  "solution": "(a) Nephron is the structural and functional unit of the kidney that filters blood and forms urine; a neuron is the structural and functional unit of the nervous system that carries electrical impulses.\n(b) A sensory nerve carries impulses from receptors (sense organs) to the brain/spinal cord; a motor nerve carries impulses from the brain/spinal cord to the effectors (muscles, glands).\n(c) Consumers depend on other organisms for food; decomposers break down dead plants and animals into simple inorganic substances and return them to the soil.",
+  "source": "CBSE 2026, 31/1/1, Q14"
+ },
+ {
+  "id": "sci-2026-q15",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Heredity",
+  "topics": [
+   "Mendel's experiments",
+   "monohybrid cross",
+   "dominant and recessive traits"
+  ],
+  "keywords": [
+   "tall and short pea plants",
+   "F1 generation",
+   "self-pollination"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Mendel took garden pea plants with different characteristics, such as height, to study the inheritance pattern of factors (genes). He crossed a tall pea plant with a short pea plant and obtained all tall plants in the F₁ generation.\n(a) Why were only tall pea plants observed in F₁ progeny? (1)\n(b) By which method did Mendel obtain F₂ progeny? (1)\n(c) (i) Write one difference between a dominant and a recessive trait. (2)\nOR\n(c) (ii) Write two observations made by Mendel about F₁ progeny. (2)",
+  "solution": "(a) Tallness is the dominant trait. The F₁ plants are hybrids (Tt) and the tall allele expresses itself, masking the short allele.\n(b) By self-pollination of the F₁ tall plants.\n(c)(i) A dominant trait expresses itself when even one copy of the gene is present; a recessive trait is expressed only when both copies are recessive.\n(c)(ii) All F₁ plants were tall (no medium-height plants, so no blending), and only one of the two parental traits (tallness) was seen.",
+  "source": "CBSE 2026, 31/1/1, Q15"
+ },
+ {
+  "id": "sci-2026-q16",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "topics": [
+   "asexual and sexual reproduction in plants and humans",
+   "fertilisation",
+   "contraception",
+   "vegetative propagation"
+  ],
+  "keywords": [
+   "global warming",
+   "self pollination",
+   "bryophyllum",
+   "Copper-T",
+   "spirogyra"
+  ],
+  "type": "Long Answer",
+  "nature": "Application",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "(a) Analyse each situation and describe its possible impact:\n(i) A population of bacteria living in temperate waters whose temperature increases due to global warming.\n(ii) The sperm encounters the egg when it reaches the oviduct in human females.\n(iii) Self-pollination does not occur in a flower that contains only a pistil.\n(iv) The egg does not get fertilised in a human female.\n(v) A seed is placed under appropriate conditions of water and air in the soil.\nOR\n(b) Analyse and describe what would happen when:\n(i) Spores are liberated from blob-like structures of bread mould.\n(ii) Leaves of Bryophyllum fall on wet soil.\n(iii) Pollen from a different species lands on the stigma of a totally unrelated species.\n(iv) Copper-T is placed in the uterus of a human female.\n(v) Spirogyra breaks into smaller fragments upon maturation.",
+  "solution": "(a)(i) Most of the bacteria in warm water may die, but variants able to tolerate heat survive and reproduce (variation helps survival).\n(ii) Fertilisation occurs: sperm and egg fuse to form a zygote.\n(iii) The flower is unisexual (only female parts), so it can only be pollinated by pollen from another flower (cross-pollination).\n(iv) The thickened uterine lining breaks down and is shed with blood as menstruation.\n(v) The seed germinates and grows into a seedling.\n(b)(i) The spores land on a moist surface, germinate and grow into new bread mould (Rhizopus).\n(ii) Buds on the leaf margin develop into new plantlets (vegetative propagation).\n(iii) The pollen does not germinate (incompatibility), so no fertilisation occurs.\n(iv) Copper-T prevents implantation of the fertilised egg, so pregnancy is avoided.\n(v) Each fragment grows into a new Spirogyra filament (fragmentation).",
+  "source": "CBSE 2026, 31/1/1, Q16"
+ },
+ {
+  "id": "sci-2026-q17",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "types of chemical reactions",
+   "double displacement reaction",
+   "precipitation reaction"
+  ],
+  "keywords": [
+   "silver chloride",
+   "barium sulphate"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(i) AgNO₃ + NaCl → NaNO₃ + AgCl\n(ii) K₂SO₄ + BaCl₂ → BaSO₄ + 2KCl\nWhich of the following options clearly describes both the reactions?",
+  "solution": "In both reactions the two compounds exchange ions (double displacement) and an insoluble white solid (AgCl in (i), BaSO₄ in (ii)) is formed, so both are also precipitation reactions.",
+  "source": "CBSE 2026, 31/1/1, Q17",
+  "options": [
+   "(i) is double displacement, (ii) is displacement reaction.",
+   "Both (i) and (ii) are displacement reactions and precipitation reactions.",
+   "Both (i) and (ii) are double displacement reactions and precipitation reactions.",
+   "(i) is displacement, (ii) is double displacement reaction."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2026-q18",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "olfactory indicators",
+   "acid-base indicators"
+  ],
+  "keywords": [
+   "visually impaired student",
+   "vanilla essence"
+  ],
+  "type": "MCQ",
+  "nature": "Application",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Which one of the following can be used as an acid-base indicator by a visually impaired (blind) student?",
+  "solution": "A blind student cannot see colour changes, so an olfactory indicator (one whose smell changes in acid/base) is used. Vanilla essence loses its smell in a base but keeps it in an acid.",
+  "source": "CBSE 2026, 31/1/1, Q18",
+  "options": [
+   "Turmeric",
+   "Vanilla essence",
+   "Methyl orange",
+   "Litmus"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2026-q19",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "thermal decomposition",
+   "decomposition of lead nitrate"
+  ],
+  "keywords": [
+   "lead(II) nitrate",
+   "nitrogen dioxide",
+   "oxygen"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "The gases evolved on heating lead(II) nitrate crystals are:",
+  "solution": "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂ on heating.\nSo the gases are brown nitrogen dioxide (NO₂) and oxygen (O₂).",
+  "source": "CBSE 2026, 31/1/1, Q19",
+  "options": [
+   "NO and O₂",
+   "N₂ and NO₂",
+   "NO₂ and H₂",
+   "NO₂ and O₂"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "sci-2026-q20",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "topics": [
+   "functional groups",
+   "aldehyde"
+  ],
+  "keywords": [
+   "–CHO"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The formula of the functional group for aldehyde is:",
+  "solution": "The aldehyde functional group is –CHO. (–COOH is carboxylic acid, >C=O is ketone and –OH is alcohol.)",
+  "source": "CBSE 2026, 31/1/1, Q20",
+  "options": [
+   "–COOH",
+   "–CHO",
+   "–C(=O)–",
+   "–OH"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2026-q21",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "properties of metals",
+   "electrical conductivity of metals"
+  ],
+  "keywords": [
+   "poor conductor",
+   "lead"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "Which of the following is a poor conductor of electricity?",
+  "solution": "Lead (Pb) is a poor conductor of heat and electricity compared with copper, silver and aluminium.",
+  "source": "CBSE 2026, 31/1/1, Q21",
+  "options": [
+   "Pb",
+   "Cu",
+   "Ag",
+   "Al"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2026-q22",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "natural sources of acids"
+  ],
+  "keywords": [
+   "oxalic acid",
+   "lactic acid",
+   "methanoic acid"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "The natural sources of oxalic acid, lactic acid and methanoic acid respectively are:",
+  "solution": "Oxalic acid is found in tomato, lactic acid in curd (sour milk) and methanoic acid in ant-sting.",
+  "source": "CBSE 2026, 31/1/1, Q22",
+  "options": [
+   "tomato, curd, ant-sting",
+   "tomato, orange, nettle-sting",
+   "orange, milk, ant-sting",
+   "orange, sour milk, nettle-sting"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2026-q23",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "reaction of metals with water",
+   "reactivity series"
+  ],
+  "keywords": [
+   "floats",
+   "hydrogen bubbles",
+   "calcium"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "When an element 'X' reacts with water, it starts floating. Identify the element 'X':",
+  "solution": "Calcium reacts with water less violently than sodium or potassium (no fire). The bubbles of hydrogen gas stick to its surface and make it float.",
+  "source": "CBSE 2026, 31/1/1, Q23",
+  "options": [
+   "Potassium",
+   "Calcium",
+   "Sodium",
+   "Iron"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "sci-2026-q24",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "topics": [
+   "covalent bonding in carbon",
+   "catenation"
+  ],
+  "keywords": [
+   "sharing of valence electrons",
+   "noble gas configuration"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Assertion (A): Carbon shares its valence electrons with other atoms of carbon or with atoms of other elements.\nReason (R): The shared electrons belong to the outermost shells of both the atoms and lead to both atoms attaining the noble gas configuration.",
+  "solution": "Carbon forms covalent bonds by sharing its four valence electrons. The shared pairs belong to the outermost shells of both atoms, giving each a stable noble-gas configuration. R correctly explains A.",
+  "source": "CBSE 2026, 31/1/1, Q24",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2026-q25",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "amphoteric oxides",
+   "nature of oxides"
+  ],
+  "keywords": [
+   "ZnO",
+   "Na₂O",
+   "CO₂"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Conceptual",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Easy",
+  "question": "(a) What are amphoteric oxides? (1)\n(b) Categorise the following based on their nature: ZnO, Na₂O, CO₂. (1)",
+  "solution": "(a) Amphoteric oxides are metal oxides that react with both acids and bases to produce salt and water (e.g. Al₂O₃, ZnO).\n(b) ZnO is amphoteric, Na₂O is basic and CO₂ is acidic.",
+  "source": "CBSE 2026, 31/1/1, Q25"
+ },
+ {
+  "id": "sci-2026-q26",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "topics": [
+   "oxidation and reduction",
+   "balancing chemical equations",
+   "decomposition reactions"
+  ],
+  "keywords": [
+   "ZnO + C",
+   "Pb(NO₃)₂ + KI",
+   "electrolytic decomposition"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) Name the substance oxidised and reduced in the reaction: ZnO + C → Zn + CO (1)\n(b) Balance the following chemical reaction: Pb(NO₃)₂ + KI → PbI₂ + KNO₃ (1)\n(c) Give one example each of electrolytic decomposition and decomposition by sunlight. (1)",
+  "solution": "(a) ZnO is reduced (loses oxygen) and carbon is oxidised (gains oxygen).\n(b) Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃.\n(c) Electrolytic decomposition: 2H₂O → 2H₂ + O₂ (electrolysis of acidified water). Decomposition by sunlight: 2AgCl → 2Ag + Cl₂.",
+  "source": "CBSE 2026, 31/1/1, Q26"
+ },
+ {
+  "id": "sci-2026-q27",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "topics": [
+   "chlor-alkali process",
+   "preparation of sodium bicarbonate, bleaching powder, Plaster of Paris"
+  ],
+  "keywords": [
+   "brine electrolysis",
+   "baking soda",
+   "bleaching powder",
+   "Plaster of Paris"
+  ],
+  "type": "Short Answer",
+  "nature": "Theory",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) Explain the chlor-alkali process with the chemical equation. Name the products formed at the anode and cathode.\nOR\n(b) Write the preparation of the following compounds with balanced chemical equations: (i) Baking soda (ii) Bleaching powder (iii) Plaster of Paris",
+  "solution": "(a) When electricity is passed through aqueous sodium chloride (brine), it decomposes:\n2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g).\nChlorine gas is formed at the anode and hydrogen gas at the cathode; sodium hydroxide remains in the solution.\n(b)(i) Baking soda: NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃.\n(ii) Bleaching powder: Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O (chlorine passed over dry slaked lime).\n(iii) Plaster of Paris: heating gypsum at 373 K: CaSO₄·2H₂O → CaSO₄·½H₂O + 1½H₂O.",
+  "source": "CBSE 2026, 31/1/1, Q27"
+ },
+ {
+  "id": "sci-2026-q28",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "topics": [
+   "extraction of metals",
+   "reduction of oxides",
+   "alloys"
+  ],
+  "keywords": [
+   "calcination",
+   "roasting",
+   "thermit reaction",
+   "solder"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Read the passage: Most metals occur in the combined state in the form of ores. Carbonate ores are converted into oxides by calcination and sulphide ores by roasting. Oxides are reduced with a suitable reducing agent like carbon to get the free metal. Highly reactive metals like Al and Mg are also used as reducing agents to obtain metals from their oxides. Most reactive metals are obtained by electrolytic reduction of their molten ores. Alloying is a very good method of improving the properties of a metal.\n(a) Why are carbonate or sulphide ores converted to oxides before extraction of the metal from them? (1)\n(b) Write a reaction in which aluminium is used as a reducing agent to obtain a metal from its oxide. (1)\n(c) (i) How is copper obtained from its ore Cu₂S? Give equations of the reactions. (2)\nOR\n(c) (ii) (I) Why can highly reactive metals not be obtained from their oxides by using carbon as a reducing agent? (II) Why is solder, an alloy of lead and tin, used for welding electrical wires together? (2)",
+  "solution": "(a) It is easier to obtain a metal from its oxide by reduction than from its carbonate or sulphide.\n(b) 3MnO₂ + 4Al → 3Mn + 2Al₂O₃ (or Fe₂O₃ + 2Al → 2Fe + Al₂O₃, the thermit reaction).\n(c)(i) Roasting: 2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂. Then 2Cu₂O + Cu₂S → 6Cu + SO₂ (auto-reduction).\n(c)(ii)(I) Highly reactive metals have more affinity for oxygen than carbon does, so carbon cannot take oxygen away from their oxides.\n(II) Solder has a low melting point, so it melts easily and joins the wires without damaging them, and it conducts electricity.",
+  "source": "CBSE 2026, 31/1/1, Q28"
+ },
+ {
+  "id": "sci-2026-q29",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "topics": [
+   "covalent compounds",
+   "soap and hard water",
+   "catenation",
+   "ethanol reactions",
+   "esterification"
+  ],
+  "keywords": [
+   "ethanol",
+   "ethene hydrogenation",
+   "sweet smelling ester",
+   "saponification"
+  ],
+  "type": "Long Answer",
+  "nature": "Theory",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "(a) (i) Give reasons for the following: (I) Covalent compounds are poor conductors of electricity. (II) Soap does not form lather in hard water. (III) Carbon shows catenation but silicon does not. (ii) Write chemical equations for: (I) Oxidation of ethanol by acidified K₂Cr₂O₇. (II) Hydrogenation of ethene.\nOR\n(b) Mohan heated ethanol with a compound 'X' in the presence of a few drops of conc. H₂SO₄ and observed that a sweet-smelling compound 'Y' is formed. When 'Y' is treated with sodium hydroxide it gives back ethanol and a compound 'Z'. (i) Identify 'X', 'Y' and 'Z'. (ii) Write the role of conc. H₂SO₄ in the reaction. (iii) Write the chemical equations involved and name the reactions.",
+  "solution": "(a)(i)(I) Covalent compounds have no free ions or free electrons, so they do not conduct electricity.\n(II) Soap reacts with the calcium and magnesium salts in hard water to form insoluble scum instead of lather.\n(III) Carbon-carbon bonds are strong because carbon is small, so carbon forms long chains; silicon's larger size gives weaker Si–Si bonds.\n(ii)(I) CH₃CH₂OH → (acidified K₂Cr₂O₇, heat) CH₃COOH.\n(II) CH₂=CH₂ + H₂ → (Ni catalyst) CH₃CH₃.\n(b)(i) X = ethanoic acid (CH₃COOH), Y = ethyl ethanoate (CH₃COOC₂H₅), Z = sodium ethanoate (CH₃COONa).\n(ii) Conc. H₂SO₄ acts as a dehydrating agent and catalyst.\n(iii) Esterification: CH₃COOH + C₂H₅OH → (conc. H₂SO₄) CH₃COOC₂H₅ + H₂O.\nSaponification (alkaline hydrolysis): CH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH.",
+  "source": "CBSE 2026, 31/1/1, Q29"
+ },
+ {
+  "id": "sci-2026-q30",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "image formation by convex lens",
+   "lens formula"
+  ],
+  "keywords": [
+   "real image same size",
+   "focal length 15 cm"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "A convex lens of focal length 15 cm is forming a real image. If the size of the image is the same as the size of the object, then the position of the object and the position of the image will be, respectively:",
+  "solution": "A real image of the same size is formed when the object is at 2f. So u = −30 cm and v = +30 cm.\n(Check: 1/v − 1/u = 1/30 + 1/30 = 1/15 = 1/f.)",
+  "source": "CBSE 2026, 31/1/1, Q30",
+  "options": [
+   "−15 cm and −15 cm from lens",
+   "−15 cm and +15 cm from lens",
+   "−30 cm and +30 cm from lens",
+   "−30 cm and −30 cm from lens"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2026-q31",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "accommodation of the eye",
+   "ciliary muscles"
+  ],
+  "keywords": [
+   "near object",
+   "eye lens thickness"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "When you look at an object very close to your eyes, the:",
+  "solution": "To see a near object the ciliary muscles contract, which makes the eye lens thicker (shorter focal length).",
+  "source": "CBSE 2026, 31/1/1, Q31",
+  "options": [
+   "Ciliary muscles of your eye contract and the eye lens becomes thick.",
+   "Ciliary muscles of your eye get relaxed and the eye lens becomes thick.",
+   "Ciliary muscles of your eye contract and the eye lens becomes thin.",
+   "Ciliary muscles of your eye get relaxed and the eye lens becomes thin."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "sci-2026-q32",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "dispersion of light through a prism"
+  ],
+  "keywords": [
+   "spectrum of seven colours",
+   "red bends least"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "Assertion (A): When rays of white light pass through a prism, on emerging they give a spectrum of seven colours.\nReason (R): It is due to the scattering of light that red light bends minimum and violet light bends the maximum.",
+  "solution": "A is true: a prism splits white light into seven colours. R is false: the splitting is due to dispersion (different colours bend by different amounts because their speeds in glass differ), not scattering.",
+  "source": "CBSE 2026, 31/1/1, Q32",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "sci-2026-q33",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "image formation by lens",
+   "lens formula and magnification"
+  ],
+  "keywords": [
+   "virtual enlarged image",
+   "real image twice the size"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "The given figure shows image formation by a lens: an object AB stands on the principal axis and its image A′B′ is formed on the same side of the lens, erect and larger than the object.\n(a) What is the type of lens used for image formation in the given ray diagram?\n(b) If the real image is formed at a distance of 30 cm from the lens and the size of the image is twice the size of the object, then where was the object placed?",
+  "solution": "(a) The image is virtual, erect and magnified and lies on the same side as the object, so the lens is a convex lens (object between the optical centre and the focus).\n(b) For a real image m = v/u = −2 with v = +30 cm → u = −15 cm.\nThe object was placed 15 cm from the lens on the object side. (Then 1/f = 1/30 + 1/15 = 1/10, so f = 10 cm.)",
+  "source": "CBSE 2026, 31/1/1, Q33"
+ },
+ {
+  "id": "sci-2026-q34",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "resistivity of a material",
+   "electric power",
+   "Ohm's law"
+  ],
+  "keywords": [
+   "0.01 cm radius",
+   "7 Ω",
+   "220 V; 11 A"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) The resistance of a wire of 0.01 cm radius and 1.0 cm length is 7 Ω. Calculate its resistivity.\nOR\n(b) An electric heater is rated 220 V; 11 A. Calculate the power consumed if the heater is operated at 200 V.",
+  "solution": "(a) r = 0.01 cm = 10⁻⁴ m, A = πr² = (22/7)(10⁻⁸) m², l = 1.0 cm = 10⁻² m.\nρ = RA/l = 7 × (22/7) × 10⁻⁸/10⁻² = 22 × 10⁻⁶ = 2.2 × 10⁻⁵ Ω m.\n(b) Resistance of the heater R = V/I = 220/11 = 20 Ω.\nAt 200 V: P = V²/R = (200)²/20 = 2000 W.",
+  "source": "CBSE 2026, 31/1/1, Q34"
+ },
+ {
+  "id": "sci-2026-q35",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "topics": [
+   "defects of vision",
+   "hypermetropia",
+   "correction using convex lens"
+  ],
+  "keywords": [
+   "near point 1 m",
+   "far-sightedness"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "A person is unable to read a book placed closer than 1 metre from his eyes. Identify the defect of vision in his eyes. Draw the ray diagrams to show the defect of vision and its correction.",
+  "solution": "The defect is hypermetropia (far-sightedness): the near point is at 1 m instead of 25 cm.\nCause: the eye lens has too long a focal length or the eyeball is too short, so the image of a nearby object forms behind the retina.\nCorrection: a convex lens of suitable focal length. For the book at 25 cm to give a virtual image at 1 m: u = −25 cm, v = −100 cm → 1/f = 1/v − 1/u = −1/100 + 1/25 = 3/100 → f = +33.3 cm (power ≈ +3 D).\nDiagrams: (defect) rays from a near object converge behind the retina; (correction) a convex lens in front of the eye makes the rays converge on the retina.",
+  "source": "CBSE 2026, 31/1/1, Q35"
+ },
+ {
+  "id": "sci-2026-q36",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "topics": [
+   "force on a current carrying conductor",
+   "Fleming's left-hand rule",
+   "motion of charged particle in magnetic field"
+  ],
+  "keywords": [
+   "magnetic field direction",
+   "electron beam deflection"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "(a) Describe an activity to show that a current-carrying conductor placed in an external magnetic field experiences a force.\nOR\n(b) Imagine that you are sitting in a chamber with your back to one wall. An electron beam moving horizontally from the back wall towards the front wall is deflected by a strong magnetic field to your right side. Find the direction of the magnetic field.",
+  "solution": "(a) Suspend a small aluminium rod AB horizontally between the poles of a horseshoe magnet using two connecting wires, and connect it to a battery through a key. When current flows, the rod is displaced (pushed out or in); reversing the current (or the magnet's poles) displaces it in the opposite direction. This shows a force acts on the conductor, which is largest when the current is perpendicular to the field.\n(b) The electron beam moves forward, so the conventional current is directed backward (towards the back wall). Force is to the right. Applying Fleming's left-hand rule (thumb = force to the right, middle finger = current backward), the forefinger (magnetic field) points vertically downward.",
+  "source": "CBSE 2026, 31/1/1, Q36"
+ },
+ {
+  "id": "sci-2026-q37",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "topics": [
+   "magnetic field due to current in a straight wire",
+   "circular loop and solenoid",
+   "distance dependence of magnetic field"
+  ],
+  "keywords": [
+   "pattern depends on shape",
+   "points X, Y, Z"
+  ],
+  "type": "Short Answer",
+  "nature": "Reasoning",
+  "marks": 3,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) The pattern of the magnetic field due to a current-carrying wire depends upon the shape made by that wire. Justify.\nOR\n(b) A current-carrying straight wire AB is shown in the given diagram, with points X, Y and Z lying on a line perpendicular to the wire at increasing distances from it (X nearest, Z farthest). Out of X, Y and Z, at which point will the strength of the magnetic field be maximum, and why?",
+  "solution": "(a) For a straight wire the field lines are concentric circles around the wire. For a circular loop, the lines near each part of the loop are nearly circular and become straight lines at the centre, perpendicular to the plane of the loop. For a solenoid, the field is like that of a bar magnet: uniform parallel lines inside and similar to a bar magnet outside. The shape of the wire decides how the field lines add up, so the pattern changes.\n(b) At point X. The strength of the magnetic field due to a straight current-carrying wire decreases with distance from the wire (B ∝ 1/r), and X is the nearest point.",
+  "source": "CBSE 2026, 31/1/1, Q37"
+ },
+ {
+  "id": "sci-2026-q38",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "topics": [
+   "lens formula",
+   "power of a lens",
+   "combination of lenses",
+   "image formation by lenses"
+  ],
+  "keywords": [
+   "convex lens",
+   "concave lens",
+   "equivalent focal length",
+   "power in dioptre"
+  ],
+  "type": "Case Study",
+  "nature": "Numerical",
+  "marks": 4,
+  "year": 2026,
+  "difficulty": "Hard",
+  "question": "Lenses can form different types of images depending upon their focal length and the position of the object. A convex lens can create real, inverted or virtual, erect images, while a concave lens forms only virtual and diminished images. Convex lenses have positive focal length while concave lenses have negative focal length. When lenses are placed together, their combined power is the sum of their individual powers.\n(a) A convex lens of focal length 20 cm is used to form an image. If an object is placed at 40 cm from the lens, what will be the position and nature of the image? (1)\n(b) Illustrate, with the help of a ray diagram, the formation of the image when the object is placed between the optical centre and the principal focus of a concave lens. (1)\n(c) (i) A lens combination consists of a convex lens of focal length 30 cm and a concave lens of focal length 15 cm placed together. Find the equivalent focal length and power of this lens combination. (2)\nOR\n(c) (ii) Two lenses are placed in contact. One is a concave lens of focal length 2 m and the other is a convex lens of focal length 1.5 m. What type of lens will the combination behave as (convex or concave)? Give reason. (2)",
+  "solution": "(a) u = −40 cm, f = +20 cm: 1/v = 1/f + 1/u = 1/20 − 1/40 = 1/40 → v = +40 cm. The image is formed 40 cm on the other side, real, inverted and the same size.\n(b) For a concave lens, the image is always virtual, erect and diminished, formed on the same side as the object between the object and the lens (a ray parallel to the axis diverges as if from F; a ray through the optical centre goes straight).\n(c)(i) P₁ = 100/30 = +3.33 D, P₂ = −100/15 = −6.67 D. P = P₁ + P₂ = −3.33 D.\nf = 1/P = −0.3 m = −30 cm (the combination acts as a concave lens).\n(c)(ii) P = −1/2 + 1/1.5 = −0.5 + 0.67 = +0.17 D. The net power is positive, so the combination behaves as a convex lens.",
+  "source": "CBSE 2026, 31/1/1, Q38"
+ },
+ {
+  "id": "sci-2026-q39",
+  "class": 10,
+  "subject": "Science",
+  "chapter": "Electricity",
+  "topics": [
+   "resistivity",
+   "alloys as heating elements",
+   "SI unit of current",
+   "parallel combination of resistors",
+   "Joule's law of heating"
+  ],
+  "keywords": [
+   "electric toaster",
+   "ammeter",
+   "bulbs in parallel"
+  ],
+  "type": "Long Answer",
+  "nature": "Application",
+  "marks": 5,
+  "year": 2026,
+  "difficulty": "Medium",
+  "question": "(a) (i) Due to a change in length and area of cross-section of a conductor, the resistance of the conductor changes while the resistivity does not change. Why? (ii) Conductors of electric toasters and electric irons are made of an alloy rather than a pure metal. Why? (iii) Define the SI unit of electric current.\nOR\n(b) (i) How many bulbs of resistance 8 Ω each should be connected in parallel to draw a current of 2 A from a battery of 4 V? (ii) Name the device used for measuring electric current. How is it connected in a circuit? (iii) State Joule's law of heating.",
+  "solution": "(a)(i) R = ρl/A, so resistance depends on the length and area of cross-section. Resistivity ρ is a property of the material (and temperature) and not of the shape or size of the conductor.\n(ii) Alloys have higher resistivity than pure metals and do not oxidise (burn) readily at high temperatures, so they are suitable as heating elements.\n(iii) One ampere is the current when a charge of 1 coulomb flows through a cross-section of a conductor in 1 second (1 A = 1 C/s).\n(b)(i) Total resistance needed R = V/I = 4/2 = 2 Ω. For n bulbs in parallel, 8/n = 2 → n = 4 bulbs.\n(ii) Ammeter, connected in series in the circuit.\n(iii) Joule's law: the heat produced in a resistor is directly proportional to the square of the current, the resistance and the time for which the current flows: H = I²Rt.",
+  "source": "CBSE 2026, 31/1/1, Q39"
+ }
+]

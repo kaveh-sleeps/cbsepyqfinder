@@ -1,0 +1,954 @@
+[
+ {
+  "id": "mat-2024-q01",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "sum of zeroes",
+   "relation between zeroes and coefficients"
+  ],
+  "keywords": [
+   "quadratic polynomial",
+   "root 2"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "If the sum of zeroes of the polynomial p(x) = 2x² − k√2 x + 1 is √2, then the value of k is:",
+  "solution": "Sum of zeroes = −(−k√2)/2 = k√2/2 = k/√2.\nk/√2 = √2 → k = 2.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q1",
+  "options": [
+   "√2",
+   "2",
+   "2√2",
+   "1/2"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2024-q02",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "complementary events",
+   "probability of an event"
+  ],
+  "keywords": [
+   "P(E) + P(not E) = 1",
+   "losing a game"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "If the probability of a player winning a game is 0.79, then the probability of his losing the same game is:",
+  "solution": "P(loss) = 1 − 0.79 = 0.21.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q2",
+  "options": [
+   "1.79",
+   "0.31",
+   "0.21%",
+   "0.21"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2024-q03",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Quadratic Equations",
+  "topics": [
+   "nature of roots",
+   "discriminant"
+  ],
+  "keywords": [
+   "real and equal roots",
+   "b² = 4ac"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "If the roots of the equation ax² + bx + c = 0, a ≠ 0 are real and equal, then which of the following relations is true?",
+  "solution": "Equal roots → D = 0 → b² − 4ac = 0 → ac = b²/4.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q3",
+  "options": [
+   "a = b²/c",
+   "b² = ac",
+   "ac = b²/4",
+   "c = b²/a"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2024-q04",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Arithmetic Progressions",
+  "topics": [
+   "sum of n terms",
+   "nth term"
+  ],
+  "keywords": [
+   "first term 7",
+   "last term 84"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "In an A.P., if the first term a = 7, the nth term aₙ = 84 and the sum of first n terms Sₙ = 2093/2, then n is equal to:",
+  "solution": "Sₙ = (n/2)(a + l) = (n/2)(7 + 84) = 91n/2.\n91n/2 = 2093/2 → n = 2093/91 = 23.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q4",
+  "options": [
+   "22",
+   "24",
+   "23",
+   "26"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2024-q05",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "LCM of numbers in prime factor form"
+  ],
+  "keywords": [
+   "prime factorisation",
+   "LCM"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "If two positive integers p and q can be expressed as p = 18a²b⁴ and q = 20a³b², where a and b are prime numbers, then LCM(p, q) is:",
+  "solution": "p = 2·3²·a²b⁴ and q = 2²·5·a³b².\nLCM takes the highest power of every prime: 2²·3²·5·a³b⁴ = 180a³b⁴.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q5",
+  "options": [
+   "2a²b²",
+   "180a²b²",
+   "12a²b²",
+   "180a³b⁴"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2024-q06",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "median of a triangle",
+   "distance formula",
+   "midpoint formula"
+  ],
+  "keywords": [
+   "vertices",
+   "length of median"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "AD is a median of ΔABC with vertices A(5, −6), B(6, 4) and C(0, 0). The length AD is equal to:",
+  "solution": "D is the midpoint of BC = (3, 2).\nAD = √[(5 − 3)² + (−6 − 2)²] = √(4 + 64) = √68 units.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q6",
+  "options": [
+   "√68 units",
+   "2√15 units",
+   "√101 units",
+   "10 units"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2024-q07",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric identities",
+   "sec²θ − tan²θ = 1"
+  ],
+  "keywords": [
+   "sec θ + tan θ"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "If sec θ − tan θ = m, then the value of sec θ + tan θ is:",
+  "solution": "(sec θ − tan θ)(sec θ + tan θ) = sec²θ − tan²θ = 1.\nSo sec θ + tan θ = 1/m.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q7",
+  "options": [
+   "1 − 1/m",
+   "m² − 1",
+   "1/m",
+   "−m"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2024-q08",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability of an event",
+   "prime numbers"
+  ],
+  "keywords": [
+   "even numbers removed",
+   "data"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "From the data 1, 4, 7, 9, 16, 21, 25, if all the even numbers are removed, then the probability of getting at random a prime number from the remaining is:",
+  "solution": "After removing 4 and 16, the remaining numbers are 1, 7, 9, 21, 25 (5 numbers).\nOnly 7 is prime → probability = 1/5.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q8",
+  "options": [
+   "2/5",
+   "1/5",
+   "1/7",
+   "2/7"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2024-q09",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "mean",
+   "deviation from mean"
+  ],
+  "keywords": [
+   "Σ fᵢ(xᵢ − x̄)",
+   "frequency"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "For some data x₁, x₂, …, xₙ with respective frequencies f₁, f₂, …, fₙ, the value of Σ fᵢ(xᵢ − x̄) is equal to:",
+  "solution": "Σ fᵢxᵢ = x̄ Σ fᵢ, so Σ fᵢ(xᵢ − x̄) = Σ fᵢxᵢ − x̄ Σ fᵢ = 0.\n(The sum of deviations from the mean is always zero.)",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q9",
+  "options": [
+   "n x̄",
+   "1",
+   "Σ fᵢ",
+   "0"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2024-q10",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "zeroes of a polynomial",
+   "relation between zeroes and coefficients"
+  ],
+  "keywords": [
+   "twice the zeroes"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "The zeroes of a polynomial x² + px + q are twice the zeroes of the polynomial 4x² − 5x − 6. The value of p is:",
+  "solution": "For 4x² − 5x − 6, sum of zeroes = 5/4.\nZeroes of x² + px + q are twice these, so their sum = 5/2 = −p.\nHence p = −5/2.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q10",
+  "options": [
+   "−5/2",
+   "5/2",
+   "−5",
+   "10"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2024-q11",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "distance formula"
+  ],
+  "keywords": [
+   "points on a horizontal line",
+   "distance 15"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "If the distance between the points (3, −5) and (x, −5) is 15 units, then the values of x are:",
+  "solution": "Both points have the same y, so the distance is |x − 3| = 15.\nx − 3 = ±15 → x = 18 or x = −12.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q11",
+  "options": [
+   "12, −18",
+   "−12, 18",
+   "18, 5",
+   "−9, −12"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2024-q12",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric ratios of standard angles"
+  ],
+  "keywords": [
+   "cos 90°",
+   "cos 45°"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "If cos(α + β) = 0, then the value of cos((α + β)/2) is equal to:",
+  "solution": "cos(α + β) = 0 → α + β = 90°.\ncos((α + β)/2) = cos 45° = 1/√2.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q12",
+  "options": [
+   "1/√2",
+   "1/2",
+   "0",
+   "√2"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2024-q13",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "surface area of sphere",
+   "surface area of hemisphere"
+  ],
+  "keywords": [
+   "sphere cut into two hemispheres",
+   "ratio"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "A solid sphere is cut into two hemispheres. The ratio of the surface areas of the sphere to that of the two hemispheres taken together is:",
+  "solution": "Sphere: 4πr².\nEach hemisphere has curved surface 2πr² plus flat circular face πr² = 3πr²; two hemispheres: 6πr².\nRatio = 4 : 6 = 2 : 3.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q13",
+  "options": [
+   "1 : 1",
+   "1 : 4",
+   "2 : 3",
+   "3 : 2"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2024-q14",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "median",
+   "measures of central tendency"
+  ],
+  "keywords": [
+   "middle most observation"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "The middle most observation of every data arranged in order is called:",
+  "solution": "The middle value of ordered data is the median.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q14",
+  "options": [
+   "mode",
+   "median",
+   "mean",
+   "deviation"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2024-q15",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "volume of cone",
+   "largest cone from a cube"
+  ],
+  "keywords": [
+   "cube edge 2 cm",
+   "right circular cone"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "The volume of the largest right circular cone that can be carved out from a solid cube of edge 2 cm is:",
+  "solution": "Largest cone has base diameter = edge = 2 cm (r = 1 cm) and height = 2 cm.\nV = (1/3)πr²h = (1/3)π(1)²(2) = 2π/3 cu cm.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q15",
+  "options": [
+   "4π/3 cu cm",
+   "5π/3 cu cm",
+   "8π/3 cu cm",
+   "2π/3 cu cm"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2024-q16",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability with two dice",
+   "sample space"
+  ],
+  "keywords": [
+   "sum of numbers",
+   "two dice"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Two dice are rolled together. The probability of getting sum of numbers on the two dice as 2, 3 or 5 is:",
+  "solution": "Sum 2: (1,1) → 1 way. Sum 3: (1,2),(2,1) → 2 ways. Sum 5: (1,4),(2,3),(3,2),(4,1) → 4 ways.\nTotal favourable = 7 out of 36 → 7/36.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q16",
+  "options": [
+   "7/36",
+   "11/36",
+   "5/36",
+   "4/9"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2024-q17",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "midpoint formula",
+   "centre of a circle"
+  ],
+  "keywords": [
+   "diameter end points"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "The centre of a circle is at (2, 0). If one end of a diameter is at (6, 0), then the other end is at:",
+  "solution": "Centre is the midpoint of the diameter: (6 + x)/2 = 2 → x = −2, and y = 0.\nOther end = (−2, 0).",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q17",
+  "options": [
+   "(0, 0)",
+   "(4, 0)",
+   "(−2, 0)",
+   "(−6, 0)"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2024-q19",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangents at ends of a diameter",
+   "longest chord"
+  ],
+  "keywords": [
+   "parallel tangents"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Assertion (A): The tangents drawn at the end points of a diameter of a circle are parallel.\nReason (R): Diameter of a circle is the longest chord.",
+  "solution": "Both are true. Tangents at the ends of a diameter are both perpendicular to the diameter, so they are parallel (A is true).\nR is true, but it does not explain why the tangents are parallel.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q19",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2024-q20",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "graph of a polynomial",
+   "number of zeroes"
+  ],
+  "keywords": [
+   "touches x-axis",
+   "quadratic polynomial"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Assertion (A): If the graph of a polynomial touches the x-axis at only one point, then the polynomial cannot be a quadratic polynomial.\nReason (R): A polynomial of degree n (n > 1) can have at most n zeroes.",
+  "solution": "A is false: for example y = x² touches the x-axis at one point only and is quadratic (a quadratic with equal roots).\nR is true: a polynomial of degree n has at most n zeroes.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q20",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2024-q21",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Pair of Linear Equations in Two Variables",
+  "topics": [
+   "solving linear equations",
+   "elimination method"
+  ],
+  "keywords": [
+   "verify the solution"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "Solve the following system of linear equations and verify your answer:\n7x − 2y = 5 and 8x + 7y = 15.",
+  "solution": "Multiply the first by 7: 49x − 14y = 35. Multiply the second by 2: 16x + 14y = 30.\nAdd: 65x = 65 → x = 1. Then 7 − 2y = 5 → y = 1.\nVerify: 7(1) − 2(1) = 5 ✓ and 8(1) + 7(1) = 15 ✓.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q21"
+ },
+ {
+  "id": "mat-2024-q22",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability with playing cards",
+   "conditional lost card"
+  ],
+  "keywords": [
+   "queen of hearts",
+   "black card lost"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "In a pack of 52 playing cards one card is lost. From the remaining cards, a card is drawn at random. Find the probability that the drawn card is the queen of hearts, if the lost card is a black card.",
+  "solution": "A black card is lost, so the queen of hearts is still present and 51 cards remain.\nP(queen of hearts) = 1/51.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q22"
+ },
+ {
+  "id": "mat-2024-q23",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric ratios of standard angles",
+   "verification of identity"
+  ],
+  "keywords": [
+   "sin (A + B)",
+   "evaluate"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Easy",
+  "question": "(a) Evaluate: 2√2 cos 45° sin 30° + 2√3 cos 30°\nOR\n(b) If A = 60° and B = 30°, verify that sin(A + B) = sin A cos B + cos A sin B.",
+  "solution": "(a) 2√2·(1/√2)·(1/2) + 2√3·(√3/2) = 1 + 3 = 4.\n(b) LHS = sin 90° = 1.\nRHS = (√3/2)(√3/2) + (1/2)(1/2) = 3/4 + 1/4 = 1.\nLHS = RHS, so verified.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q23"
+ },
+ {
+  "id": "mat-2024-q24",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "similarity of triangles",
+   "angle bisector",
+   "AA criterion"
+  ],
+  "keywords": [
+   "quadrilateral",
+   "diagonal bisects angles B and D"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Proof",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "ABCD is a quadrilateral in which diagonal BD bisects ∠B and ∠D both. Prove that:\n(i) ΔABD ~ ΔCBD\n(ii) AB = BC",
+  "solution": "(i) In ΔABD and ΔCBD: ∠ABD = ∠CBD (BD bisects ∠B) and ∠ADB = ∠CDB (BD bisects ∠D).\nSo ΔABD ~ ΔCBD (AA).\n(ii) From the similarity, AB/CB = BD/BD = 1, so AB = BC.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q24"
+ },
+ {
+  "id": "mat-2024-q25",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "irrational numbers",
+   "composite numbers"
+  ],
+  "keywords": [
+   "5 − 2√3",
+   "5×11×17+3×11"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Proof",
+  "marks": 2,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(a) Prove that 5 − 2√3 is an irrational number. It is given that √3 is an irrational number.\nOR\n(b) Show that the number 5×11×17 + 3×11 is a composite number.",
+  "solution": "(a) Suppose 5 − 2√3 = r is rational. Then √3 = (5 − r)/2, which is rational. This contradicts the fact that √3 is irrational. So 5 − 2√3 is irrational.\n(b) 5×11×17 + 3×11 = 11(85 + 3) = 11 × 88 = 968.\nIt has factors other than 1 and itself (11 and 88), so it is composite.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q25"
+ },
+ {
+  "id": "mat-2024-q26",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "section formula",
+   "midpoint formula",
+   "diagonals of a parallelogram"
+  ],
+  "keywords": [
+   "ratio",
+   "PQRS",
+   "rectangle"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "(a) Find the ratio in which the point (8/5, y) divides the line segment joining the points (1, 2) and (2, 3). Also find the value of y.\nOR\n(b) ABCD is a rectangle formed by the points A(−1, −1), B(−1, 6), C(3, 6) and D(3, −1). P, Q, R and S are mid-points of sides AB, BC, CD and DA respectively. Show that the diagonals of the quadrilateral PQRS bisect each other.",
+  "solution": "(a) Let the ratio be k : 1. x = (2k + 1)/(k + 1) = 8/5 → 10k + 5 = 8k + 8 → k = 3/2, so the ratio is 3 : 2.\ny = (3k + 2)/(k + 1) = (9/2 + 2)/(5/2) = 13/5.\n(b) P(−1, 5/2), Q(1, 6), R(3, 5/2), S(1, −1).\nMidpoint of PR = (1, 5/2). Midpoint of QS = (1, 5/2).\nBoth diagonals have the same midpoint, so they bisect each other.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q26"
+ },
+ {
+  "id": "mat-2024-q27",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "HCF",
+   "application of HCF"
+  ],
+  "keywords": [
+   "minimum number of rooms",
+   "48, 80, 144"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "In a teachers' workshop, the number of teachers teaching French, Hindi and English are 48, 80 and 144 respectively. Find the minimum number of rooms required if in each room the same number of teachers are seated and all of them are of the same subject.",
+  "solution": "To have the fewest rooms, seat the maximum number in each room, which is the HCF of 48, 80, 144.\n48 = 2⁴·3, 80 = 2⁴·5, 144 = 2⁴·3² → HCF = 16.\nRooms = 48/16 + 80/16 + 144/16 = 3 + 5 + 9 = 17.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q27"
+ },
+ {
+  "id": "mat-2024-q28",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric identities",
+   "proving identities"
+  ],
+  "keywords": [
+   "tan θ",
+   "cot θ",
+   "1 + sec θ cosec θ"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "Prove that: tan θ/(1 − cot θ) + cot θ/(1 − tan θ) = 1 + sec θ cosec θ.",
+  "solution": "tan θ/(1 − cot θ) = tan θ/[(sin θ − cos θ)/sin θ] = sin²θ/[cos θ (sin θ − cos θ)].\ncot θ/(1 − tan θ) = cos²θ/[sin θ (cos θ − sin θ)] = −cos²θ/[sin θ (sin θ − cos θ)].\nSum = [sin³θ − cos³θ]/[sin θ cos θ (sin θ − cos θ)].\nUsing a³ − b³ = (a − b)(a² + ab + b²): = (1 + sin θ cos θ)/(sin θ cos θ) = 1/(sin θ cos θ) + 1 = 1 + sec θ cosec θ.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q28"
+ },
+ {
+  "id": "mat-2024-q29",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Pair of Linear Equations in Two Variables",
+  "topics": [
+   "age problems",
+   "linear equations word problem"
+  ],
+  "keywords": [
+   "Rashmi",
+   "Nazma"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "Three years ago, Rashmi was thrice as old as Nazma. Ten years later, Rashmi will be twice as old as Nazma. How old are Rashmi and Nazma now?",
+  "solution": "Let Rashmi's age be R and Nazma's age N.\nR − 3 = 3(N − 3) → R = 3N − 6. R + 10 = 2(N + 10) → R = 2N + 10.\n3N − 6 = 2N + 10 → N = 16, R = 42.\nRashmi is 42 years and Nazma is 16 years old.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q29"
+ },
+ {
+  "id": "mat-2024-q30",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangents to a circle",
+   "tangent length from external point",
+   "circle inscribed in quadrilateral"
+  ],
+  "keywords": [
+   "∠POQ = 90°",
+   "BS = 24 cm"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "(a) AB is a diameter of the circle with centre O. AQ, BP and PQ are tangents to the circle (AQ and BP are tangents at the ends of the diameter, PQ touches the circle between them). Prove that ∠POQ = 90°.\nOR\n(b) A circle with centre O and radius 8 cm is inscribed in a quadrilateral ABCD in which P, Q, R, S are the points of contact on DA, DC, CB and AB respectively. If AD is perpendicular to DC, BC = 30 cm and BS = 24 cm, find the length DC.",
+  "solution": "(a) Tangents from an external point are equal, so OA/OB bisect the angles at the tangent points: ∠AOQ = ∠QOT and ∠BOP = ∠POT (T = point where PQ touches). Since AOB is a straight line, ∠AOQ + ∠QOT + ∠TOP + ∠POB = 180°, so 2(∠QOT + ∠TOP) = 180° and ∠POQ = 90°.\n(b) BR = BS = 24 (tangents from B), so CR = 30 − 24 = 6 and CQ = CR = 6.\nSince AD ⊥ DC and the circle touches both, DPOQ is a square of side 8, so DQ = 8.\nDC = DQ + QC = 8 + 6 = 14 cm.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q30"
+ },
+ {
+  "id": "mat-2024-q31",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "volume of hollow cylinder",
+   "difference of squares"
+  ],
+  "keywords": [
+   "outer radius",
+   "inner radius",
+   "metal used"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "The difference between the outer and inner radii of a hollow right circular cylinder of length 14 cm is 1 cm. If the volume of the metal used in making the cylinder is 176 cm³, find the outer and inner radii of the cylinder.",
+  "solution": "Let outer radius = R and inner radius = r, so R − r = 1.\nVolume of metal = πh(R² − r²) = (22/7)(14)(R − r)(R + r) = 44(R + r).\n44(R + r) = 176 → R + r = 4.\nWith R − r = 1: R = 2.5 cm and r = 1.5 cm.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q31"
+ },
+ {
+  "id": "mat-2024-q32",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "length of an arc",
+   "area of a segment"
+  ],
+  "keywords": [
+   "sector",
+   "minor segment",
+   "60° angle"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "An arc of a circle of radius 21 cm subtends an angle of 60° at the centre. Find:\n(i) the length of the arc.\n(ii) the area of the minor segment of the circle made by the corresponding chord.",
+  "solution": "(i) Arc length = (60/360) × 2π × 21 = (1/6)(2)(22/7)(21) = 22 cm.\n(ii) Area of sector = (1/6)(22/7)(21)² = 231 cm².\nAngle is 60° and both radii are equal, so the triangle is equilateral with side 21: area = (√3/4)(21)² = 441√3/4 cm².\nMinor segment = 231 − 441√3/4 cm² (≈ 40.3 cm² using √3 = 1.73).",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q32"
+ },
+ {
+  "id": "mat-2024-q33",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Arithmetic Progressions",
+  "topics": [
+   "sum of n terms",
+   "nth term",
+   "finding first term and common difference"
+  ],
+  "keywords": [
+   "sum and product of terms",
+   "sum of first 20 terms"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "(a) The sum of the first and eighth terms of an A.P. is 32 and their product is 60. Find the first term and common difference of the A.P. Hence find the sum of its first 20 terms.\nOR\n(b) In an A.P. of 40 terms, the sum of the first 9 terms is 153 and the sum of the last 6 terms is 687. Determine the first term and common difference of the A.P. Also find the sum of all the terms of the A.P.",
+  "solution": "(a) a + (a + 7d) = 32 and a(a + 7d) = 60. Then a(32 − a) = 60 → a² − 32a + 60 = 0 → a = 2 or a = 30.\nIf a = 2: 7d = 28 → d = 4, S₂₀ = 10[4 + 76] = 800.\nIf a = 30: 7d = −28 → d = −4, S₂₀ = 10[60 − 76] = −160.\n(b) S₉ = (9/2)(2a + 8d) = 153 → a + 4d = 17.\nLast six terms are a₃₅ … a₄₀: sum = 3(2a + 73d) = 687 → 2a + 73d = 229.\nSubstituting a = 17 − 4d: 34 + 65d = 229 → d = 3, a = 5.\nS₄₀ = 20[2(5) + 39(3)] = 20 × 127 = 2540.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q33"
+ },
+ {
+  "id": "mat-2024-q34",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "basic proportionality theorem",
+   "similar triangles"
+  ],
+  "keywords": [
+   "BPT",
+   "1/x + 1/z = 1/y",
+   "perpendiculars"
+  ],
+  "type": "Long Answer",
+  "nature": "Proof",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "(a) If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then prove that the other two sides are divided in the same ratio.\nOR\n(b) PA, QB and RC are each perpendicular to AC (A, B, C lie on a line; PC and AR meet at Q). If AP = x, BQ = y and CR = z, prove that 1/x + 1/z = 1/y.",
+  "solution": "(a) This is the Basic Proportionality (Thales) Theorem. Given DE ∥ BC in ΔABC. Join BE and CD and draw EM ⊥ AB, DN ⊥ AC. Using area ratios: ar(ADE)/ar(BDE) = AD/DB and ar(ADE)/ar(CED) = AE/EC. ΔBDE and ΔCED are on the same base DE and between the same parallels, so their areas are equal. Hence AD/DB = AE/EC.\n(b) BQ ∥ AP, so ΔCBQ ~ ΔCAP: y/x = CB/CA.\nBQ ∥ CR, so ΔABQ ~ ΔACR: y/z = AB/AC.\nAdd: y/x + y/z = (CB + AB)/AC = 1. Divide by y: 1/x + 1/z = 1/y.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q34"
+ },
+ {
+  "id": "mat-2024-q35",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Some Applications of Trigonometry",
+  "topics": [
+   "heights and distances",
+   "angle of elevation",
+   "angle of depression"
+  ],
+  "keywords": [
+   "pole on tower",
+   "60° and 45°"
+  ],
+  "type": "Long Answer",
+  "nature": "Application",
+  "marks": 5,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "A pole 6 m high is fixed on the top of a tower. The angle of elevation of the top of the pole observed from a point P on the ground is 60° and the angle of depression of the point P from the top of the tower is 45°. Find the height of the tower and the distance of point P from the foot of the tower. (Use √3 = 1.73)",
+  "solution": "Let the tower height be h and the distance from P to the foot be d.\nAngle of depression 45°: tan 45° = h/d → d = h.\nAngle of elevation of top of pole 60°: tan 60° = (h + 6)/d = (h + 6)/h → √3 h = h + 6.\nh = 6/(√3 − 1) = 3(√3 + 1) = 3(2.73) = 8.19 m.\nTower height = 8.19 m, and distance PO = 8.19 m.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q35"
+ },
+ {
+  "id": "mat-2024-q36",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Quadratic Equations",
+  "topics": [
+   "quadratic equation word problem",
+   "factorisation",
+   "quadratic formula"
+  ],
+  "keywords": [
+   "tiles",
+   "floor area"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "A rectangular floor area can be completely tiled with 200 square tiles. If the side length of each tile is increased by 1 unit, it would take only 128 tiles to cover the floor.\n(i) Assuming the original side length of each tile to be x units, make a quadratic equation from the above information. (1)\n(ii) Write the corresponding quadratic equation in standard form. (1)\n(iii) (a) Find the value of x, the length of the side of a tile, by factorisation. (2)\nOR\n(iii) (b) Solve the quadratic equation for x using the quadratic formula. (2)",
+  "solution": "Floor area = 200x² = 128(x + 1)².\n(i) 200x² = 128(x + 1)² (equivalently 25x² = 16(x + 1)²).\n(ii) 25x² = 16x² + 32x + 16 → 9x² − 32x − 16 = 0.\n(iii)(a) 9x² − 36x + 4x − 16 = 0 → 9x(x − 4) + 4(x − 4) = 0 → (9x + 4)(x − 4) = 0 → x = 4 (x = −4/9 rejected).\n(iii)(b) x = [32 ± √(1024 + 576)]/18 = (32 ± 40)/18 → x = 4 or −4/9. Length cannot be negative, so x = 4.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q36"
+ },
+ {
+  "id": "mat-2024-q37",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "median of grouped data",
+   "mode of grouped data",
+   "probability of an event"
+  ],
+  "keywords": [
+   "BINGO",
+   "balls numbered 1 to 75"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2024,
+  "difficulty": "Medium",
+  "question": "BINGO is a game of chance. The host has 75 balls numbered 1 through 75. A player cancels a number on the card when it is called out. The table shows one game where 48 balls were used before Tara said 'BINGO'.\nNumbers announced: 0–15 (8 times), 15–30 (9), 30–45 (10), 45–60 (12), 60–75 (9).\n(i) Write the median class. (1)\n(ii) When the first ball was picked up, what was the probability of calling out an even number? (1)\n(iii) (a) Find the median of the given data. (2)\nOR\n(iii) (b) Find the mode of the given data. (2)",
+  "solution": "n = 48, n/2 = 24. Cumulative frequencies: 8, 17, 27, 37, 48.\n(i) Median class = 30–45.\n(ii) Even numbers from 1 to 75 = 37, so P = 37/75.\n(iii)(a) Median = 30 + [(24 − 17)/10] × 15 = 30 + 10.5 = 40.5.\n(iii)(b) Modal class = 45–60 (f₁ = 12, f₀ = 10, f₂ = 9). Mode = 45 + [(12 − 10)/(24 − 10 − 9)] × 15 = 45 + 6 = 51.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q37"
+ },
+ {
+  "id": "mat-2024-q38",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangents from an external point",
+   "incircle of a right triangle"
+  ],
+  "keywords": [
+   "backyard",
+   "circular pit",
+   "AP = x"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2024,
+  "difficulty": "Hard",
+  "question": "A backyard is in the shape of a triangle ABC with right angle at B. AB = 7 m and BC = 15 m. A circular pit was dug inside it such that it touches the walls AC, BC and AB at P, Q and R respectively, with AP = x m.\n(i) Find the length of AR in terms of x. (1)\n(ii) Write the type of quadrilateral BQOR. (1)\n(iii) (a) Find the length PC in terms of x and hence find the value of x. (2)\nOR\n(iii) (b) Find x and hence find the radius r of the circle. (2)",
+  "solution": "Tangents from an external point are equal.\n(i) AR = AP = x m.\n(ii) BQOR has three right angles (at B, Q, R) and OQ = OR, so it is a square.\n(iii)(a) BR = BQ = 7 − x, so QC = 15 − (7 − x) = 8 + x and PC = QC = 8 + x m.\nAC = AP + PC = 2x + 8. By Pythagoras AC² = 7² + 15² = 274, so 2x + 8 = √274 → x = (√274 − 8)/2 ≈ 4.28.\n(iii)(b) r = BR = 7 − x = (22 − √274)/2 ≈ 2.72 m.",
+  "source": "CBSE 2024, Maths Standard 30/1/1, Q38"
+ }
+]

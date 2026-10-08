@@ -1,0 +1,928 @@
+[
+ {
+  "id": "mat-2025-q01",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "sum and product of zeroes",
+   "relation between zeroes and coefficients"
+  ],
+  "keywords": [
+   "quadratic polynomial",
+   "alpha beta"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "If α and β are the zeroes of polynomial 3x² + 6x + k such that α + β + αβ = −2/3, then the value of k is:",
+  "solution": "α + β = −6/3 = −2 and αβ = k/3.\n−2 + k/3 = −2/3 → k/3 = 4/3 → k = 4.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q1",
+  "options": [
+   "− 8",
+   "8",
+   "− 4",
+   "4"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2025-q02",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Pair of Linear Equations in Two Variables",
+  "topics": [
+   "solution of pair of linear equations",
+   "consistency"
+  ],
+  "keywords": [
+   "substitute x and y"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "If x = 1 and y = 2 is a solution of the pair of linear equations 2x − 3y + a = 0 and 2x + 3y − b = 0, then:",
+  "solution": "Put x = 1, y = 2: 2 − 6 + a = 0 → a = 4; 2 + 6 − b = 0 → b = 8.\nSo b = 2a, i.e. 2a = b.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q2",
+  "options": [
+   "a = 2b",
+   "2a = b",
+   "a + 2b = 0",
+   "2a + b = 0"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2025-q03",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "mid-point formula"
+  ],
+  "keywords": [
+   "line segment",
+   "axis",
+   "midpoint"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The mid-point of the line segment joining the points P(−4, 5) and Q(4, 6) lies on:",
+  "solution": "Mid-point = ((−4+4)/2, (5+6)/2) = (0, 5.5). Its x-coordinate is 0, so it lies on the y-axis.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q3",
+  "options": [
+   "x-axis",
+   "y-axis",
+   "origin",
+   "neither x-axis nor y-axis"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2025-q04",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric ratios of specific angles"
+  ],
+  "keywords": [
+   "sin",
+   "acute angle"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "If θ is an acute angle and 7 + 4 sin θ = 9, then the value of θ is:",
+  "solution": "4 sin θ = 2 → sin θ = 1/2 → θ = 30°.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q4",
+  "options": [
+   "90°",
+   "30°",
+   "45°",
+   "60°"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2025-q05",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "trigonometric identities"
+  ],
+  "keywords": [
+   "tan",
+   "sec",
+   "cos"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The value of tan²θ − ((1/cos θ) × sec θ) is:",
+  "solution": "(1/cos θ) × sec θ = sec²θ.\ntan²θ − sec²θ = −1 (since sec²θ − tan²θ = 1).",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q5",
+  "options": [
+   "1",
+   "0",
+   "− 1",
+   "2"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2025-q06",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "HCF and LCM"
+  ],
+  "keywords": [
+   "product of two numbers"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "If HCF(98, 28) = m and LCM(98, 28) = n, then the value of n − 7m is:",
+  "solution": "98 = 2 × 7², 28 = 2² × 7. HCF = 14 = m, LCM = 196 = n.\nn − 7m = 196 − 98 = 98.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q6",
+  "options": [
+   "0",
+   "28",
+   "98",
+   "198"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2025-q07",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangent to a circle",
+   "tangents at ends of diameter"
+  ],
+  "keywords": [
+   "parallel"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "The tangents drawn at the extremities of the diameter of a circle are always:",
+  "solution": "A tangent is perpendicular to the radius at the point of contact. Both tangents are perpendicular to the same diameter, so they are parallel to each other.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q7",
+  "options": [
+   "parallel",
+   "perpendicular",
+   "equal",
+   "intersecting"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2025-q08",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "criteria for similarity",
+   "AA similarity"
+  ],
+  "keywords": [
+   "similar",
+   "congruent"
+  ],
+  "type": "MCQ",
+  "nature": "Conceptual",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "In triangles ABC and DEF, ∠B = ∠E, ∠F = ∠C and AB = 3 DE. Then, the two triangles are:",
+  "solution": "Two equal angles give AA similarity. Since AB = 3DE the sides are not equal, so the triangles are not congruent.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q8",
+  "options": [
+   "congruent but not similar",
+   "congruent as well as similar",
+   "neither congruent nor similar",
+   "similar but not congruent"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2025-q09",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "powers of −1",
+   "even and odd exponents"
+  ],
+  "keywords": [
+   "integer exponent"
+  ],
+  "type": "MCQ",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "If (−1)ⁿ + (−1)⁸ = 0, then n is:",
+  "solution": "(−1)⁸ = 1, so (−1)ⁿ = −1, which happens only when n is odd.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q9",
+  "options": [
+   "any positive integer",
+   "any negative integer",
+   "any odd number",
+   "any even number"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2025-q11",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Arithmetic Progressions",
+  "topics": [
+   "sum of n terms of an AP",
+   "nth term from sum"
+  ],
+  "keywords": [
+   "second term",
+   "Sm"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "If the sum of first m terms of an AP is 2m² + 3m, then its second term is:",
+  "solution": "S₁ = 2 + 3 = 5 → a₁ = 5.\nS₂ = 8 + 6 = 14.\na₂ = S₂ − S₁ = 14 − 5 = 9.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q11",
+  "options": [
+   "10",
+   "9",
+   "12",
+   "4"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2025-q12",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "empirical relation mean median mode"
+  ],
+  "keywords": [
+   "3 median = mode + 2 mean"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Mode and Mean of a data are 15x and 18x, respectively. Then the median of the data is:",
+  "solution": "Mode = 3 Median − 2 Mean\n15x = 3 Median − 36x → 3 Median = 51x → Median = 17x.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q12",
+  "options": [
+   "x",
+   "11x",
+   "17x",
+   "34x"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2025-q13",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability with playing cards"
+  ],
+  "keywords": [
+   "red face card",
+   "deck of 52"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "A card is selected at random from a deck of 52 playing cards. The probability of it being a red face card is:",
+  "solution": "Red face cards = 3 (hearts) + 3 (diamonds) = 6.\nP = 6/52 = 3/26.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q13",
+  "options": [
+   "3/13",
+   "2/13",
+   "1/2",
+   "3/26"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2025-q14",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "irrational numbers",
+   "rational numbers between two numbers"
+  ],
+  "keywords": [
+   "√3",
+   "√5",
+   "decimal expansion"
+  ],
+  "type": "MCQ",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Which of the following is a rational number between √3 and √5?",
+  "solution": "√3 ≈ 1·732 and √5 ≈ 2·236.\n(A) 1·4142… is below √3 and irrational. (B) 2·326 (repeating) is above √5. (C) π is irrational and larger than √5.\n(D) 1·857142 is terminating (rational) and lies between 1·732 and 2·236.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q14",
+  "options": [
+   "1·4142387954012 …",
+   "2·3̄2̄6̄ (2·326 with 26 repeating)",
+   "π",
+   "1·857142"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2025-q15",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "area of a sector"
+  ],
+  "keywords": [
+   "central angle",
+   "radius"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "If a sector of a circle has an area of 40π sq. units and a central angle of 72°, the radius of the circle is:",
+  "solution": "Area = (72/360) × πr² = πr²/5 = 40π → r² = 200 → r = 10√2 units.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q15",
+  "options": [
+   "200 units",
+   "100 units",
+   "20 units",
+   "10√2 units"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "mat-2025-q16",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangent perpendicular to radius",
+   "angle at centre"
+  ],
+  "keywords": [
+   "POB",
+   "APO",
+   "external point"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "In the given figure, PA is a tangent from an external point P to a circle with centre O (A, O, B lie on the same line, AB being a diameter). If ∠POB = 115°, then ∠APO is equal to:",
+  "solution": "∠POA = 180° − 115° = 65° (linear pair).\nOA ⊥ PA, so ∠PAO = 90°.\n∠APO = 180° − 90° − 65° = 25°.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q16",
+  "options": [
+   "25°",
+   "65°",
+   "90°",
+   "35°"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2025-q17",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Some Applications of Trigonometry",
+  "topics": [
+   "heights and distances",
+   "angle of elevation"
+  ],
+  "keywords": [
+   "kite",
+   "string length",
+   "30 degrees"
+  ],
+  "type": "MCQ",
+  "nature": "Application",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "A kite is flying at a height of 150 m from the ground. It is attached to a string inclined at an angle of 30° to the horizontal. The length of the string is:",
+  "solution": "sin 30° = height/length = 150/L → 1/2 = 150/L → L = 300 m.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q17",
+  "options": [
+   "100√3 m",
+   "300 m",
+   "150√2 m",
+   "150√3 m"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2025-q18",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "length of an arc",
+   "angle subtended by an arc"
+  ],
+  "keywords": [
+   "wire bent into arc"
+  ],
+  "type": "MCQ",
+  "nature": "Numerical",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "A piece of wire 20 cm long is bent into the form of an arc of a circle of radius 60/π cm. The angle subtended by the arc at the centre of the circle is:",
+  "solution": "Arc length = (θ/360) × 2πr → 20 = (θ/360) × 2π × 60/π = (θ/360) × 120 → θ = 60°.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q18",
+  "options": [
+   "30°",
+   "60°",
+   "90°",
+   "50°"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "mat-2025-q19",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "sure event",
+   "probability of an event"
+  ],
+  "keywords": [
+   "P(E) = 1"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Assertion (A): The probability of selecting a number at random from the numbers 1 to 20 is 1.\nReason (R): For any event E, if P(E) = 1, then E is called a sure event.",
+  "solution": "Every number selected from 1 to 20 is certainly one of these numbers, so the event is sure and has probability 1. R states this definition, so it explains A.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q19",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 0
+ },
+ {
+  "id": "mat-2025-q20",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "surface area of sphere and hemisphere"
+  ],
+  "keywords": [
+   "3πr²",
+   "4πr²"
+  ],
+  "type": "Assertion-Reason",
+  "nature": "Reasoning",
+  "marks": 1,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Assertion (A): If we join two hemispheres of same radius along their bases, then we get a sphere.\nReason (R): Total Surface Area of a sphere of radius r is 3πr².",
+  "solution": "A is true. R is false: the surface area of a sphere is 4πr² (3πr² is the total surface area of a solid hemisphere).",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q20",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer": 2
+ },
+ {
+  "id": "mat-2025-q21",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "values of trigonometric ratios",
+   "trigonometric identities"
+  ],
+  "keywords": [
+   "cos 60",
+   "cot 45",
+   "tan 60"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "(a) If x cos 60° + y cos 0° + sin 30° − cot 45° = 5, then find the value of x + 2y.\nOR\n(b) Evaluate: tan²60° / (sin²60° + cos²30°)",
+  "solution": "(a) x(1/2) + y(1) + 1/2 − 1 = 5 → x/2 + y = 11/2 → x + 2y = 11.\n(b) tan²60° = 3; sin²60° + cos²30° = 3/4 + 3/4 = 3/2.\nValue = 3 ÷ (3/2) = 2.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q21"
+ },
+ {
+  "id": "mat-2025-q22",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Polynomials",
+  "topics": [
+   "zeroes of a quadratic polynomial",
+   "factorisation"
+  ],
+  "keywords": [
+   "find zeroes"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Find the zeroes of the polynomial p(x) = x² + (4/3)x − 4/3.",
+  "solution": "p(x) = 0 → 3x² + 4x − 4 = 0 → 3x² + 6x − 2x − 4 = 0 → (x + 2)(3x − 2) = 0.\nZeroes: x = −2 and x = 2/3.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q22"
+ },
+ {
+  "id": "mat-2025-q23",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "distance formula",
+   "circle through a point"
+  ],
+  "keywords": [
+   "centre",
+   "diameter",
+   "radius"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "The coordinates of the centre of a circle are (2a, a − 7). Find the value(s) of 'a' if the circle passes through the point (11, −9) and has diameter 10√2 units.",
+  "solution": "Radius = 5√2, so r² = 50.\nDistance² from centre to (11, −9): (11 − 2a)² + (−9 − a + 7)² = 50\n(11 − 2a)² + (a + 2)² = 50 → 5a² − 40a + 75 = 0 → a² − 8a + 15 = 0\na = 3 or a = 5.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q23"
+ },
+ {
+  "id": "mat-2025-q24",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "similar triangles",
+   "SAS similarity"
+  ],
+  "keywords": [
+   "PQ + QR",
+   "proportional sides"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Numerical",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "(a) If ΔABC ~ ΔPQR in which AB = 6 cm, BC = 4 cm, AC = 8 cm and PR = 6 cm, then find the length of (PQ + QR).\nOR\n(b) In the given figure (T, P, Q lie on a straight line), QR/QS = QT/PR and ∠1 = ∠2 (∠1 = ∠PQR, ∠2 = ∠PRQ). Show that ΔPQS ~ ΔTQR.",
+  "solution": "(a) AC corresponds to PR: ratio = PR/AC = 6/8 = 3/4.\nPQ = (3/4) × 6 = 4·5 cm, QR = (3/4) × 4 = 3 cm. PQ + QR = 7·5 cm.\n(b) ∠1 = ∠2 → PQ = PR (sides opposite equal angles). So QR/QS = QT/PQ → PQ/QT = QS/QR.\nAlso ∠PQS = ∠TQR (common angle at Q). By SAS similarity, ΔPQS ~ ΔTQR.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q24"
+ },
+ {
+  "id": "mat-2025-q25",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Circles",
+  "topics": [
+   "tangents from an external point",
+   "Pythagoras theorem"
+  ],
+  "keywords": [
+   "radius of circular ground",
+   "PA = PB"
+  ],
+  "type": "Very Short Answer",
+  "nature": "Application",
+  "marks": 2,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "A person is standing at P outside a circular ground at a distance of 26 m from the centre of the ground. He found that his distances from the points A and B on the ground are 10 m (PA and PB are tangents to the circle). Find the radius of the circular ground.",
+  "solution": "Tangent ⊥ radius, so ΔOAP is right-angled at A.\nOA² = OP² − PA² = 26² − 10² = 676 − 100 = 576 → OA = 24 m.\nRadius = 24 m.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q25"
+ },
+ {
+  "id": "mat-2025-q27",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Introduction to Trigonometry",
+  "topics": [
+   "proving trigonometric identities"
+  ],
+  "keywords": [
+   "tan",
+   "cot",
+   "sec",
+   "cosec"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "(a) Prove that: tanθ/(1 − cotθ) + cotθ/(1 − tanθ) = 1 + secθ cosecθ\nOR\n(b) Prove that: (sinA + cosA)/(sinA − cosA) + (sinA − cosA)/(sinA + cosA) = 2/(2sin²A − 1)",
+  "solution": "(a) tanθ/(1 − cotθ) = tan²θ/(tanθ − 1) and cotθ/(1 − tanθ) = −1/(tanθ(tanθ − 1)).\nSum = (tan³θ − 1)/(tanθ(tanθ − 1)) = (tan²θ + tanθ + 1)/tanθ = tanθ + 1 + cotθ\n= 1 + (sin²θ + cos²θ)/(sinθ cosθ) = 1 + secθ cosecθ.\n(b) LHS = [(s + c)² + (s − c)²]/(s² − c²) = 2(s² + c²)/(s² − c²) = 2/(s² − (1 − s²)) = 2/(2sin²A − 1) = RHS.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q27"
+ },
+ {
+  "id": "mat-2025-q28",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Coordinate Geometry",
+  "topics": [
+   "section formula",
+   "y-axis divides a line segment"
+  ],
+  "keywords": [
+   "ratio",
+   "point of intersection"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Find the ratio in which the y-axis divides the line segment joining the points (5, −6) and (−1, −4). Also find the point of intersection.",
+  "solution": "Let the y-axis divide it in ratio k : 1. x-coordinate = (k(−1) + 5)/(k + 1) = 0 → k = 5.\nRatio = 5 : 1.\ny = (5(−4) + 1(−6))/6 = −26/6 = −13/3.\nPoint of intersection: (0, −13/3).",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q28"
+ },
+ {
+  "id": "mat-2025-q29",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Real Numbers",
+  "topics": [
+   "irrational numbers proof",
+   "proof by contradiction"
+  ],
+  "keywords": [
+   "1/√5"
+  ],
+  "type": "Short Answer",
+  "nature": "Proof",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "Prove that 1/√5 is an irrational number.",
+  "solution": "Assume √5 is rational: √5 = p/q (coprime, q ≠ 0) → 5q² = p² → 5 | p → p = 5m → q² = 5m² → 5 | q. This contradicts p, q being coprime, so √5 is irrational.\nNow suppose 1/√5 = a/b is rational. Then √5 = b/a would be rational, a contradiction.\nHence 1/√5 is irrational.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q29"
+ },
+ {
+  "id": "mat-2025-q30",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Surface Areas and Volumes",
+  "topics": [
+   "combination of solids",
+   "volume of cylinder and hemisphere"
+  ],
+  "keywords": [
+   "room",
+   "dome",
+   "air"
+  ],
+  "type": "Short Answer",
+  "nature": "Application",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "A room is in the form of a cylinder surmounted by a hemispherical dome. The base radius of the hemisphere is half of the height of the cylindrical part. If the room contains 1408/21 m³ of air, find the height of the cylindrical part. (Use π = 22/7)",
+  "solution": "Let hemisphere radius = r; cylinder height h = 2r.\nVolume = πr²h + (2/3)πr³ = 2πr³ + (2/3)πr³ = (8/3)πr³\n(8/3)(22/7) r³ = 1408/21 → (176/21) r³ = 1408/21 → r³ = 8 → r = 2 m.\nHeight of cylindrical part = 2r = 4 m.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q30"
+ },
+ {
+  "id": "mat-2025-q31",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Probability",
+  "topics": [
+   "probability with two dice"
+  ],
+  "keywords": [
+   "difference of numbers",
+   "sample space 36"
+  ],
+  "type": "Short Answer",
+  "nature": "Numerical",
+  "marks": 3,
+  "year": 2025,
+  "difficulty": "Easy",
+  "question": "Two dice are thrown at the same time. Determine the probability that the difference of the numbers on the two dice is 2.",
+  "solution": "Total outcomes = 36.\nFavourable: (1,3), (2,4), (3,5), (4,6), (3,1), (4,2), (5,3), (6,4) = 8.\nP = 8/36 = 2/9.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q31"
+ },
+ {
+  "id": "mat-2025-q32",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Pair of Linear Equations in Two Variables",
+  "topics": [
+   "word problem on linear equations",
+   "simple interest"
+  ],
+  "keywords": [
+   "investment",
+   "two schemes",
+   "interest rate"
+  ],
+  "type": "Long Answer",
+  "nature": "Application",
+  "marks": 5,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "Vijay invested certain amounts of money in two schemes A and B, which offer interest at the rate of 8% per annum and 9% per annum, respectively. He received ₹1,860 as the total annual interest. However, had he interchanged the amounts of investments in the two schemes, he would have received ₹20 more as annual interest. How much money did he invest in each scheme?",
+  "solution": "Let the amounts in A and B be ₹x and ₹y.\n0·08x + 0·09y = 1860 → 8x + 9y = 186000 …(i)\n0·09x + 0·08y = 1880 → 9x + 8y = 188000 …(ii)\nAdding: 17(x + y) = 374000 → x + y = 22000. Subtracting: x − y = 2000.\nx = ₹12,000 in scheme A and y = ₹10,000 in scheme B.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q32"
+ },
+ {
+  "id": "mat-2025-q33",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Triangles",
+  "topics": [
+   "similar triangles proof",
+   "parallelogram",
+   "converse of Pythagoras"
+  ],
+  "keywords": [
+   "diagonal",
+   "AD² = BD × DC",
+   "right angle"
+  ],
+  "type": "Long Answer",
+  "nature": "Proof",
+  "marks": 5,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "(a) The diagonal BD of a parallelogram ABCD intersects the line segment AE at the point F, where E is any point on the side BC. Prove that DF × EF = FB × FA.\nOR\n(b) In ΔABC, if AD ⊥ BC and AD² = BD × DC, then prove that ∠BAC = 90°.",
+  "solution": "(a) AD ∥ BC, so ∠FDA = ∠FBE and ∠FAD = ∠FEB (alternate angles) → ΔAFD ~ ΔEFB (AA).\nAF/EF = DF/BF → DF × EF = FB × FA.\n(b) AD² = BD × DC → BD/AD = AD/DC. Also ∠ADB = ∠CDA = 90°, so ΔDBA ~ ΔDAC (SAS) → ∠BAD = ∠ACD.\n∠BAC = ∠BAD + ∠DAC = ∠ACD + ∠DAC = 90° (angle sum in right-angled ΔADC).",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q33"
+ },
+ {
+  "id": "mat-2025-q34",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Quadratic Equations",
+  "topics": [
+   "word problem on quadratic equations",
+   "Pythagoras theorem",
+   "speed distance time"
+  ],
+  "keywords": [
+   "perimeter of right triangle",
+   "train speed"
+  ],
+  "type": "Long Answer",
+  "nature": "Application",
+  "marks": 5,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "(a) The perimeter of a right triangle is 60 cm and its hypotenuse is 25 cm. Find the lengths of other two sides of the triangle.\nOR\n(b) A train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, then it would have taken 3 hours more to cover the same distance. Find the speed of the train.",
+  "solution": "(a) a + b = 35 and a² + b² = 625 → 2ab = 1225 − 625 = 600 → ab = 300.\na, b are roots of t² − 35t + 300 = 0 → (t − 15)(t − 20) = 0. Sides are 15 cm and 20 cm.\n(b) Let speed = x km/h: 480/(x − 8) − 480/x = 3 → 160·8/(x(x − 8))·... simplify: 1280 = x(x − 8) → x² − 8x − 1280 = 0 → (x − 40)(x + 32) = 0.\nSpeed = 40 km/h (reject −32).",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q34"
+ },
+ {
+  "id": "mat-2025-q35",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Statistics",
+  "topics": [
+   "mean of grouped data",
+   "mode of grouped data",
+   "missing frequency"
+  ],
+  "keywords": [
+   "daily allowance",
+   "modal class"
+  ],
+  "type": "Long Answer",
+  "nature": "Numerical",
+  "marks": 5,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "Find the missing frequency 'f' in the following table, if the mean of the given data is 18. Hence find the mode.\nDaily Allowance : Number of Children\n11–13 : 7\n13–15 : 6\n15–17 : 9\n17–19 : 13\n19–21 : f\n21–23 : 5\n23–25 : 4",
+  "solution": "Class marks: 12, 14, 16, 18, 20, 22, 24.\nΣf = 44 + f; Σfx = 84 + 84 + 144 + 234 + 20f + 110 + 96 = 752 + 20f.\nMean = 18 → 752 + 20f = 18(44 + f) = 792 + 18f → 2f = 40 → f = 20.\nModal class = 19–21 (highest frequency 20): l = 19, h = 2, f₁ = 20, f₀ = 13, f₂ = 5.\nMode = l + [(f₁ − f₀)/(2f₁ − f₀ − f₂)] × h = 19 + (7/22) × 2 = 19 + 7/11 ≈ 19·64.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q35"
+ },
+ {
+  "id": "mat-2025-q36",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Arithmetic Progressions",
+  "topics": [
+   "arithmetic progression application",
+   "sum of n terms"
+  ],
+  "keywords": [
+   "charity run",
+   "rounds",
+   "distance"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "A school is organizing a charity run. Each round is on a track; the first round is 300 metres and each subsequent round is 50 metres longer than the previous one (second round 350 m, third 400 m, and so on). The total number of rounds planned is 10.\n(i) Write the fourth, fifth and sixth term of the Arithmetic Progression so formed. (1)\n(ii) Determine the distance of the 8th round. (1)\n(iii) (a) Find the total distance run after completing all 10 rounds. (2)\nOR\n(iii) (b) If a runner completes only the first 6 rounds, what is the total distance run by the runner? (2)",
+  "solution": "The AP is 300, 350, 400, … with a = 300, d = 50.\n(i) a₄ = 450, a₅ = 500, a₆ = 550.\n(ii) a₈ = 300 + 7 × 50 = 650 m.\n(iii)(a) S₁₀ = (10/2)[2(300) + 9(50)] = 5 × 1050 = 5250 m.\n(iii)(b) S₆ = (6/2)[600 + 5(50)] = 3 × 850 = 2550 m.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q36"
+ },
+ {
+  "id": "mat-2025-q37",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Areas Related to Circles",
+  "topics": [
+   "length of arc",
+   "area of a sector",
+   "circumference"
+  ],
+  "keywords": [
+   "brooch",
+   "silver wire",
+   "central angle"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2025,
+  "difficulty": "Medium",
+  "question": "A brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors, as shown in the figure.\n(i) Find the central angle of each sector. (1)\n(ii) Find the length of the arc ACB (the arc ACB spans two sectors in the figure). (1)\n(iii) (a) Find the area of each sector of the brooch. (2)\nOR\n(iii) (b) Find the total length of the silver wire used. (2)",
+  "solution": "r = 17·5 mm.\n(i) 360°/10 = 36°.\n(ii) Arc ACB = two sectors = 72°: (72/360) × 2 × (22/7) × 17·5 = (1/5) × 110 = 22 mm.\n(iii)(a) Area of one sector = (36/360) × (22/7) × 17·5² = (1/10) × (22/7) × 306·25 = 96·25 mm².\n(iii)(b) Circumference = π × 35 = 110 mm; 5 diameters = 5 × 35 = 175 mm. Total wire = 110 + 175 = 285 mm.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q37"
+ },
+ {
+  "id": "mat-2025-q38",
+  "class": 10,
+  "subject": "Maths",
+  "chapter": "Some Applications of Trigonometry",
+  "topics": [
+   "angle of elevation",
+   "heights and distances"
+  ],
+  "keywords": [
+   "lighthouse",
+   "observation deck",
+   "60 degrees",
+   "45 degrees"
+  ],
+  "type": "Case Study",
+  "nature": "Application",
+  "marks": 4,
+  "year": 2025,
+  "difficulty": "Hard",
+  "question": "Amrita stood near the base of a lighthouse, gazing up at its height. She measured the angle of elevation to the top to be 60°. Then she climbed a nearby observation deck, 40 metres higher than her original position, and noticed the angle of elevation to the top of the lighthouse to be 45°. (In the figure A is the original position, B the deck 40 m above A, C the top of the lighthouse, D the point on CE at the level of B, and E the base, so CD = h.)\n(i) If CD is h metres, find the distance BD in terms of 'h'. (1)\n(ii) Find distance BC in terms of 'h'. (1)\n(iii) (a) Find the height CE of the lighthouse. [Use √3 = 1·73] (2)\nOR\n(iii) (b) Find distance AE, if AC = 100 m. (2)",
+  "solution": "(i) In right ΔBDC, tan 45° = CD/BD = h/BD → BD = h.\n(ii) sin 45° = h/BC → BC = h√2.\n(iii)(a) AE = BD = h. In ΔAEC: tan 60° = CE/AE = (h + 40)/h = √3 → h(√3 − 1) = 40 → h = 40/(√3 − 1) = 20(√3 + 1) = 20 × 2·73 = 54·6 m.\nCE = h + 40 = 94·6 m.\n(iii)(b) AE = AC cos 60° = 100 × 1/2 = 50 m.",
+  "source": "CBSE 2025, Maths Standard 30/1/1, Q38"
+ }
+]
